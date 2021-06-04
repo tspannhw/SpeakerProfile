@@ -1,6 +1,6 @@
 # Speaker Profile
 
-My speaker profile for events and conferences based on codepo8/presenter-terms
+My speaker profile for events and conferences forked from codepo8/presenter-terms.
 
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
@@ -27,19 +27,50 @@ Hi, some call me Tim. I do a lot of great talks, demos, events and love interact
 * **My Meetups:** https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 
+## Current Talk Topics
+
+* (Link to other pages)
+
+
 ## 📆 Events Upcoming and Recent
 
 * https://www.linkedin.com/pulse/2021-schedule-tim-spann/
 * https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
 * https://sessionize.com/tspann/
 
+## ✈️ Selection of Previous Events at a Glance
+
+AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink Forward Global Virtual 2020, DeveloperWeek Europe 2021, Apache Con Global 2020, Apache Beam Summit 2020, DevOps Stage Ukraine 2020, IoT Fusion, Strata NYC 2018/2019, Oracle Code NYC, Utilities Analytics Week, DataWorks Summit Berlin/Sydney/San Jose/DC/Barcelona, Open Source Summit Europe 2020, Big Data Conference 2020, Apache MXNet Day 2020, NoSQL Day 2019, Future of Data Prague 2018, Future of Data Philadelphia 2018, Future of Data Berlin 2018, Future of Data Princeton 2016/2017/2018/2019/2020/2021, BluePrint LDN 2021, Cloudera Now 2021, DataCon LA 2021, Cloudera Emerging Tech Day 2020/2021.
+
+* https://www.datainmotion.dev/2020/12/my-year-in-review-2020.html
+* https://dev.to/tspannhw/year-and-decade-end-report-201-3ddm
+* https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
+* https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541 
+
+## 🛰️ Youtube Channel
+
+https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
+
 ## 📼 Videos of Mine
 
+* https://www.youtube.com/watch?v=Y3Uh_RDeSSk&t=2816s
+* https://www.youtube.com/watch?v=f4cipioFCW8&t=58s
+* https://www.youtube.com/watch?v=Mv-NNdiGFus&t=3s
+* https://www.youtube.com/watch?v=MQQ7qaKKKc8&t=3s
+* https://www.youtube.com/watch?v=7cuQgmi4Ufs
+* https://www.youtube.com/watch?v=MTvGHAJpNL4&t=349s
+* https://www.youtube.com/watch?v=3l-A3YIKJwQ&t=328s
+* https://www.youtube.com/watch?v=Q0NXOqHD_SY&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=3
+* https://www.youtube.com/watch?v=DD1jkY3Gl-w&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=6
+* https://www.youtube.com/watch?v=-GZjtHUNW58&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=7
+* https://www.youtube.com/watch?v=WRAFD88PNFw&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=16
+* https://www.youtube.com/watch?v=5w6rV7562xM&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=17
+* https://www.youtube.com/watch?v=BA_B6MKrxig&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=21
 
 
 ## :pencil: Presenter Bio
 
-Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming developer advocate, open source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.
+Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming developer advocate, open source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.   I was a Senior Field Engineer at Pivotal, a Senior Solutions Architect at airsData and a Senior Solutions Engineer at Hortonworks.
 
 ## :love_letter: I am available for... 
 
