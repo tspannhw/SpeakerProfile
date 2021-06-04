@@ -24,6 +24,7 @@ Hi Tim here, I do a lot of great talks and love interacting with the community o
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
 * https://www.airflowdagdeveloper.com/
+* **My Meetups:** https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/
 * **Location:** Princeton, New Jersey, USA
 
 ## :vhs: Videos of note 
@@ -44,9 +45,12 @@ Tim Spann is a Principal DataFlow Field Engineer at Cloudera, the Big Data Zone 
 - [x] Panels / Round Tables
 - [x] Hackathons
 - [x] Articles
+- [x] Organizing gatherings
+- [x] Bird of a Feather sessions
 - [x] Newsletters
 - [x] Podcasts, Clubhouse, Twitter Spaces
 - [x] Twitch
+- [x] Meetups
 - [x] Lunch N Learns
 - [x] Informal Get-Togethers
 - [x] Ask Me Anything (AMA) / Q&A
