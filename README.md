@@ -7,7 +7,7 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
 # Tim Spann - Principal Field Engineer, Developer Advocate, Author
 
-Hi Tim here, I do a lot of great talks and love interacting with the community on various topics.   
+Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   
 
 
 ## :wave: Personal information
@@ -24,7 +24,7 @@ Hi Tim here, I do a lot of great talks and love interacting with the community o
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
 * https://www.airflowdagdeveloper.com/
-* **My Meetups:** https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/
+* **My Meetups:** https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 
 ## :vhs: Videos of note 
@@ -35,7 +35,7 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :pencil: Presenter Bio
 
-Tim Spann is a Principal DataFlow Field Engineer at Cloudera, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
+Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming developer advocate, open source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.
 
 ## :love_letter: I am available for... 
 
@@ -87,18 +87,17 @@ Tim Spann is a Principal DataFlow Field Engineer at Cloudera, the Big Data Zone 
 - [ ] **I can do extra talks if one is needed or someone is not available at the last minute.
 - [ ] **I will visit all the booths, events and talks that I can.
 - [ ] **I will do Ask-Me-Anything (AMA), informal chats and discussions with attendees.
-- [ ] - [x] **Be available for conference attendees.** Conferences to me are more about the people than about the content. Therefore I will try to be there for questions and feedback.
-- [x] **Be available for other promotional parts of the event.** I am happy to do interviews or give you feedback to use in conference wrap-ups
-- [x] **Promote my presence at your event.** I will tweet and blog before, during and after the event about what I will do at your event and interesting things I encounter. 
-- [x] **Publish my slides and screen recording after my talk.** If there is a good enough connection, this normally happens right after the presentation. Everything I create at your event will be licensed Creative Commons unless otherwise agreed. 
+- [ ] **I will do pre and post promotional videos, articles and activities.
+- [ ] **I will be available to meet with organizers, speakers and attendees.
+
 
 ## :computer: My setup 
 
 I am pretty open to different ways of presenting, but here is my perfect setup
 
-- [x] I like to use my own computer as I have them set up the way I need and there may be coding examples.
-- [x] I either use a Surface Book or a Macbook Pro. Both come with Mini Display Ports but I also carry a dongle to connect to HDMI.
-- [x] I only send slides in advance when there is live translation or signing. Then I will also have a list of terms to translate and put some time aside with the translators to go through the deck.
+- [x] I bring my own laptops with all the connectors needed
+- [x] I will give you and publish copies of the slides before the start.
+- [x] I tend to like to have devices for IoT demos that I bring with me and run during talks.
 
 If I need to use a central computer instead of mine, please consider the following:
 
