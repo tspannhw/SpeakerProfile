@@ -1,4 +1,5 @@
-# SpeakerProfile
+# Speaker Profile
+
 My speaker profile for events and conferences based on codepo8/presenter-terms
 
 
@@ -6,7 +7,7 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
 # Tim Spann - Principal Field Engineer, Developer Advocate, Author
 
-Hello I am Chris and I am happy that you are interested in me speaking at your event. I have defined presenter terms and here is an overview. In addition to the ones here, please refer to the [So you want me to talk?](https://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) article on my blog. I am a professional presenter with lots of experience. Therefore I want to make sure that there is no misconception about what I expect and deliver.
+Hi Tim here, I do a lot of great talks and love interacting with the community on various topics.   
 
 ## :wave: Personal information
 
@@ -14,12 +15,14 @@ Hello I am Chris and I am happy that you are interested in me speaking at your e
 * **Company:** Cloudera
 * **Job Title:** Principal DataFlow Field Engineer
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
+* **LinkedIn:** https://www.linkedin.com/in/timothyspann/
 * **Blog/Homepage:** https://datainmotion.dev
 * **DevTo:** https://dev.to/tspannhw
 * **Sessionize:** https://sessionize.com/tspann/
 * **Dzone Articles:** https://dzone.com/users/297029/bunkertor.html
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
+* https://www.airflowdagdeveloper.com/
 * **Location:** Princeton, New Jersey, USA
 
 ## :vhs: Videos of note 
