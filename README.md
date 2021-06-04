@@ -106,3 +106,6 @@ Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming develo
 
 ## :camera: Presenter Headshots 
 
+![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
+![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/headshotTimSpann.png)
+
