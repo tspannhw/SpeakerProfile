@@ -7,7 +7,8 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
 # Tim Spann - Principal Field Engineer, Developer Advocate, Author
 
-Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   
+Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   I did five talks at ApacheCon that one
+time.
 
 
 ## :wave: Personal information
@@ -30,6 +31,17 @@ Hi, some call me Tim. I do a lot of great talks, demos, events and love interact
 ## Current Talk Topics
 
 * (Link to other pages)
+
+## Some Topics In Development
+
+* BUILDING EVENT STREAMING MICROSERVICES WITH NiFI Stateless AND APACHE KAFKA
+* CLOUD NATIVE STREAMING
+* USING REAL_TIME DATA FEEDS
+* IOT STREAMING WITH MQTT, MINIFI AND KAFKA
+* BUILDING REAL_TIME WEB APPLICATIONS WITH WEBSOCKETS AND KAFKA
+* KAFKA STREAM PROCESSING WITH SQL
+* CODELESS PIPELINES WITH KAFKA AND FLANK
+* BUILD A REAL_TIME PIPELINE NOW WITH KAFKA CONNECT and FLANK
 
 
 ## 📆 Events Upcoming and Recent
@@ -54,15 +66,25 @@ https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
 ## 📼 Videos of Mine
 
 * https://www.youtube.com/watch?v=Y3Uh_RDeSSk&t=2816s
+* https://www.youtube.com/watch?v=HxU73SAKlOI&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=24
+* https://www.youtube.com/watch?v=qyC2UXf1XdY&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=25
 * https://www.youtube.com/watch?v=f4cipioFCW8&t=58s
+* https://www.youtube.com/watch?v=Isj_gVFsbYc&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=27
 * https://www.youtube.com/watch?v=Mv-NNdiGFus&t=3s
+* https://www.youtube.com/watch?v=sTnyu3fRUwE&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=29
 * https://www.youtube.com/watch?v=MQQ7qaKKKc8&t=3s
+* https://www.youtube.com/watch?v=nPewLy7Zjkg&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=28
+* https://www.youtube.com/watch?v=VYNRo0pbFtg&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=35
 * https://www.youtube.com/watch?v=7cuQgmi4Ufs
 * https://www.youtube.com/watch?v=MTvGHAJpNL4&t=349s
+* https://www.youtube.com/watch?v=pUPqsfkOk6c&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=78
+* https://www.youtube.com/watch?v=CWU7JtMf5jc&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=37
 * https://www.youtube.com/watch?v=3l-A3YIKJwQ&t=328s
 * https://www.youtube.com/watch?v=Q0NXOqHD_SY&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=3
 * https://www.youtube.com/watch?v=DD1jkY3Gl-w&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=6
+* https://www.youtube.com/watch?v=5q6w6VGwrh8&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=83
 * https://www.youtube.com/watch?v=-GZjtHUNW58&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=7
+* https://www.youtube.com/watch?v=QWXXaRE1VUI&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=59
 * https://www.youtube.com/watch?v=WRAFD88PNFw&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=16
 * https://www.youtube.com/watch?v=5w6rV7562xM&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=17
 * https://www.youtube.com/watch?v=BA_B6MKrxig&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=21
@@ -94,6 +116,8 @@ Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming develo
 - [x] Coding sessions at events
 - [x] Brainstorming sessions
 - [x] Video series
+- [x] Be a co-speaker with an expert fiend of mine
+- [x] I like invite people to speak with me to help them get started or a speaker mentor
 
 ## :gift: Subjects I cover... 
 
