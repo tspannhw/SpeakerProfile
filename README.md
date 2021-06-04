@@ -9,6 +9,7 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
 Hi Tim here, I do a lot of great talks and love interacting with the community on various topics.   
 
+
 ## :wave: Personal information
 
 * **Name:** Timothy Spann
@@ -33,46 +34,56 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :pencil: Presenter Bio
 
+Tim Spann is a Principal DataFlow Field Engineer at Cloudera, the Big Data Zone leader and blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Berlin and Sydney.
 
 ## :love_letter: I am available for... 
 
 - [x] Keynotes 
 - [x] Talks
 - [x] Workshops
-- [x] Panels
+- [x] Panels / Round Tables
+- [x] Hackathons
+- [x] Articles
+- [x] Newsletters
+- [x] Podcasts, Clubhouse, Twitter Spaces
+- [x] Twitch
+- [x] Lunch N Learns
+- [x] Informal Get-Togethers
+- [x] Ask Me Anything (AMA) / Q&A
 - [x] Moderation / MC Duties
+- [x] Lighting talks and discussions
+- [x] Coding sessions at events
+- [x] Brainstorming sessions
 - [x] Video series
 
 ## :gift: Subjects I cover... 
 
-- [x] JavaScript/CSS/HTML - Web development 
-- [x] Progressive Web Apps 
+- [x] Apache NiFi
+- [x] Apache Kafka
+- [x] Apache Flink
+- [x] IoT/IIoT
+- [x] Real-Time Streaming / Event Processing
+- [x] Edge Computing / Edge AI
+- [x] Big Data / Cloud Data
+- [x] Data Ops
+- [x] Cloud Data Warehousing
 - [x] Development practices and culture
-- [x] Developer Relations 
-- [x] Accessibility 
-- [x] Machine Learning / Artificial Intelligence
-- [x] Community building 
-- [x] Careers in Tech 
+- [x] Open Source 
+- [x] Machine Learning / Artificial Intelligence / Deep Learning
 - [x] Development tools
 - [x] Future of computing
 
-## :collision: Show stoppers
 
-I know it is hard to organise events, so I want to make sure that we are on the same level. Here is a list of things that I will not do. 
+## :dancer: Delivered at Your Event
 
-* :x: I will not present at a panel or a conference line-up with an obvious lack of diversity. Our audience comes in all shapes and sizes, so should the experts on stage
-* :x: I expect the conference to have an enforced code of conduct 
-* :x: I don't "pay to play". As a presenter, I expect full access to the event.
-* :x: I don't deal with sponsorships of the event and I am not interested in sponsored speaking slots. 
-* :x: I have a list of people I will not present alongside and I refuse to present at events that have certain sponsors. I will flag that up to you when that is the case. I am sorry, that this is the case, but it helps.
-
-## :dancer: My deliveries at your event
-
-Here's what I will do when invited as a presenter at your event.
-
-- [x] **Deliver a fitting talk for the intended audience.** I tend to deliver a unique talk every time I can and it will be an up-to-date talk.  
-- [x] **Deliver the talk on time and sticking to the defined format and duration.** I need to know what time frame you expect and what format you want it to be in. I will show up at the times you need me to be there and set up on stage with enough time for AV people to wire up microphones and other equipment. 
-- [x] **Be available for conference attendees.** Conferences to me are more about the people than about the content. Therefore I will try to be there for questions and feedback.
+- [x] **A talk tailored to the audience.   I have many examples and use cases, so I can focus on that.  I have done that at Utilities Week.
+- [x] **I will promote your event and my talk through many social channels.
+- [x] **I will fit my talk and demo to your time available
+- [ ] **I will bring backup equipment and presentation alterntives in case things arrive.
+- [ ] **I can do extra talks if one is needed or someone is not available at the last minute.
+- [ ] **I will visit all the booths, events and talks that I can.
+- [ ] **I will do Ask-Me-Anything (AMA), informal chats and discussions with attendees.
+- [ ] - [x] **Be available for conference attendees.** Conferences to me are more about the people than about the content. Therefore I will try to be there for questions and feedback.
 - [x] **Be available for other promotional parts of the event.** I am happy to do interviews or give you feedback to use in conference wrap-ups
 - [x] **Promote my presence at your event.** I will tweet and blog before, during and after the event about what I will do at your event and interesting things I encounter. 
 - [x] **Publish my slides and screen recording after my talk.** If there is a good enough connection, this normally happens right after the presentation. Everything I create at your event will be licensed Creative Commons unless otherwise agreed. 
