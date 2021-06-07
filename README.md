@@ -30,7 +30,10 @@ time.
 
 ## Current Talk Topics
 
-* (Link to other pages)
+* https://github.com/tspannhw/SpeakerProfile/blob/main/kafkatopics.md
+* https://github.com/tspannhw/SpeakerProfile/blob/main/nifitopics.md
+* https://github.com/tspannhw/SpeakerProfile/blob/main/flanktopics.md
+
 
 ## Some Topics In Development
 
