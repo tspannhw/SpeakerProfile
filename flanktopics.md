@@ -57,3 +57,28 @@ will show hands-on techniques, tips and examples of how to do this.
 ### Hail Hydrate! From Stream to Lake
 
 
+A cloud data lake that is empty is not useful to anyone.
+
+How can you quickly, scalably and reliably fill your cloud data lake with diverse sources of data you already have and new ones you never imagined you needed. Utilizing open source tools from Apache, the FLaNK stack enables any data engineer, programmer or analyst to build reusable modules with low or no code. FLaNK utilizes Apache NiFi, Apache Kafka, Apache Flink and MiNiFi agents to load CDC, Logs, REST, XML, Images, PDFs, Documents, Text, semistructured data, unstructured data, structured data and a hundred data sources you could never dream of streaming before.
+
+I will teach you how to fish in the deep end of the lake and return a data engineering hero. Let's hope everyone is ready to go from 0 to Petabyte hero.
+
+
+### FLANK Stack for Cloud Data Lakes
+
+Utilizing an all Apache STack for Rapid Data Lake Population and querying utilizing Apache Flink, Apache Arrow, Apache NiFi and Apache Kafka.
+
+In the world of fast moving images, time series data, sensor readings and raw text data, we need a fast, open architecture that scales.
+
+This is where the FLANK Stack comes in, By utilizing an all Apache Stack of Apache Flink, Apache Arrow, Apache NiFi and Apache Kafka.
+
+This enables any data user to build smart applications for intelligent access to any data, any where, at anytime. We need not worry about how to get the data, how to translate or special access methods. The data is instantly usable in queries, reports, data science and business use case solving. The traditionally difficult parts of data engineering become easy with quick and easy DataOps and orchestration of IoT * data from edge devices, docker containers, k8 pods and anywhere data lives into live cloud data lakes at scale.
+
+
+### Utilizing Apache Kafka, Apache NiFi and MiNiFi for EdgeAI IoT at Scale
+
+A hands-on deep dive on using Apache Kafka, Kafka Streams, Apache NiFi + Edge Flow Manager + MiniFi Agents with Apache MXNet, OpenVino, TensorFlow Lite, and other Deep Learning Libraries on the actual edge devices including Raspberry Pi with Movidius 2, Google Coral TPU and NVidia Jetson Nano. We run deep learning models on the edge devices and send images, capture real-time GPS and sensor data. With our low coding IoT applications providing easy edge routing, transformation, data acquisition and alerting before we decide what data to stream real-time to our data space. These edge applications classify images and sensor readings real-time at the edge and then send Deep Learning results to Kafka Streams and Apache NiFi for transformation, parsing, enrichment, querying, filtering and merging data to various Apache data stores including Apache Kudu and Apache HBase.
+
+https://www.datainmotion.dev/2019/08/updating-machine-learning-models-at.html
+
+Summary:   Streaming IoT Events From Edge into Your Cloud Data Lake is easy utilizing the open source FLaNK Stack. I will show you how to bring in device data from the edge to your cloud data lake. ]
