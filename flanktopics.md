@@ -1,3 +1,28 @@
+### Cracking the Nut, Solving Edge AI with Apache Tools and Frameworks
+
+Today, data is being generated from devices and containers living at the edge of networks, clouds and data centers. We need to run business logic, analytics and deep learning at the edge before we start our real-time streaming flows. Fortunately using the all Apache Mm FLaNK stack we can do this with ease! Streaming AI Powered Analytics From the Edge to the Data Center is now a simple use case. With MiNiFi we can ingest the data, do data checks, cleansing, run machine learning and deep learning models and route our data in real-time to Apache NiFi and/or Apache Kafka for further transformations and processing. Apache Flink will provide our advanced streaming capabilities fed real-time via Apache Kafka topics. Apache MXNet models will run both at the edge and in our data centers via Apache NiFi and MiNiFi. Our final data will be stored in Apache Kudu via Apache NiFi for final SQL analytics.
+
+FLaNK provides a quick set of tools to build applications at any scale for any streaming and IoT use cases.
+
+
+#### Tools:
+
+# Apache Flink, Apache Kafka, Apache NiFi, MiNiFi, DJL.ai Apache MXNet, Apache Kudu, Apache Impala, Apache HDFS
+
+#### References:
+
+* https://www.datainmotion.dev/2019/11/introducing-mm-flank-apache-flink-stack.html
+* https://www.datainmotion.dev/2019/08/rapid-iot-development-with-cloudera.html
+* https://www.datainmotion.dev/2019/09/powering-edge-ai-for-sensor-reading.html
+* https://www.datainmotion.dev/2019/05/dataworks-summit-dc-2019-report.html
+* https://www.datainmotion.dev/2019/03/using-raspberry-pi-3b-with-apache-nifi.html
+* https://www.flankstack.dev/
+
+#### Source Code: https://github.com/tspannhw/MmFLaNK
+
+
+
+
 ### SmartStocks - NRT REST Processing with FLaNK
 
 https://www.datainmotion.dev/2020/12/smart-stocks-with-flank-nifi-kafka.html
