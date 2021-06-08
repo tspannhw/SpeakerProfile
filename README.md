@@ -19,6 +19,7 @@ time.
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
 * **LinkedIn:** https://www.linkedin.com/in/timothyspann/
 * **Blog/Homepage:** https://datainmotion.dev
+* **Slides:** https://www.slideshare.net/bunkertor
 * **DevTo:** https://dev.to/tspannhw
 * **Sessionize:** https://sessionize.com/tspann/
 * **Cloudera Forum:** https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
