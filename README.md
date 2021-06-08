@@ -21,6 +21,7 @@ time.
 * **Blog/Homepage:** https://datainmotion.dev
 * **DevTo:** https://dev.to/tspannhw
 * **Sessionize:** https://sessionize.com/tspann/
+* **Cloudera Forum:** https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
 * **Dzone Articles:** https://dzone.com/users/297029/bunkertor.html
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
