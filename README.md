@@ -15,6 +15,7 @@ time.
 
 * **Name:** Timothy Spann
 * **Company:** Cloudera
+* **Former Companies:** Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group.
 * **Job Title:** Principal DataFlow Field Engineer
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
 * **LinkedIn:** https://www.linkedin.com/in/timothyspann/
