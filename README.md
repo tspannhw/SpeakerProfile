@@ -55,6 +55,7 @@ time.
 * https://www.linkedin.com/pulse/2021-schedule-tim-spann/
 * https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
 * https://sessionize.com/tspann/
+* https://www.datainmotion.dev/2021/06/upcoming-events-2021.html
 
 ## ✈️ Selection of Previous Events at a Glance
 
