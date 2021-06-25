@@ -10,6 +10,21 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   I did five talks at ApacheCon that one
 time.
 
+## Bio
+
+Timothy Spann
+Principal DataFlow Field Engineer
+
+Tim Spann is a Principal DataFlow Field Engineer at Cloudera where he works with Apache NiFi, MiniFi, Kafka, Apache Flink, Apache MXNet, TensorFlow, Apache Spark, big data, the IoT, machine learning, and deep learning. Tim has over a decade of experience with the IoT, big data, distributed computing, streaming technologies, and Java programming. Previously, he was a senior solutions architect at AirisData and a senior field engineer at Pivotal. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton on big data, the IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as IoT Fusion, Strata, ApacheCon, Data Works Summit Berlin, DataWorks Summit Sydney, and Oracle Code NYC. He holds a BS and MS in computer science.
+
+* https://www.datainmotion.dev/p/about-me.html
+* https://dzone.com/users/297029/bunkertor.html
+* https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/speaker/185963
+
+  @paasdev  linkedin.com/in/timothyspann/  cloudera.com (company)
+
+
+
 
 ## :wave: Personal information
 
