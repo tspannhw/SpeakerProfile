@@ -1,5 +1,14 @@
 # 2021 Talks
 
+# 29-july-2021 - Conf42 - Machine Learning - Hail Hydrate!  From Stream to Lake
+
+Apache NiFi, Apache Flink, Apache Pulsar
+https://www.conf42.com/Machine_Learning_2021_Tim_Spann_From_Stream_to_Lake
+
+# 23-july-2021 - Data Science Online Camp - Continuous SQL with Apache Streaming
+
+Apache NiFi, Apache Flink, Apache Pulsar
+https://www.facebook.com/watch/?v=325512559246282
 
 # 26-june-2021 - AI AND IOT Bulgaria Summit 2021 - Using the FLaNK Stack for Edge AI
 
