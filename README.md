@@ -2,6 +2,8 @@
 
 My speaker profile for events and conferences forked from codepo8/presenter-terms.
 
+![StreamNative](https://streamnative.io/static/images/streamnative-logo-white-bakground.png)
+
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
