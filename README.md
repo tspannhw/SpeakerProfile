@@ -12,10 +12,7 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   I did five talks at ApacheCon that one
 time.
 
-## Bio
-
-Timothy Spann
-Principal DataFlow Field Engineer
+## Bio - Timothy Spann - Developer Advocate @ Streamnative
 
 Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative Cloud, Apache Pulsar, Apache Flink, Flink SQL, Apache NiFi, MiniFi, Apache MXNet, TensorFlow, Apache Spark, big data, the IoT, machine learning, and deep learning. Tim has over a decade of experience with the IoT, big data, distributed computing, streaming technologies, and Java programming. Previously, he was a Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton on big data, the IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as IoT Fusion, Strata, ApacheCon, Data Works Summit Berlin, DataWorks Summit Sydney, and Oracle Code NYC. He holds a BS and MS in computer science.
 
@@ -27,45 +24,43 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
   @paasdev  linkedin.com/in/timothyspann/  cloudera.com (company)
 
 
-
-
 ## :wave: Personal information
 
 * **Name:** Timothy Spann
-* **Company:** Cloudera
-* **Former Companies:** Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group.
-* **Job Title:** Principal DataFlow Field Engineer
+* **Company:** StreamNative
+* **Former Companies:** Cloudera, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group.
+* **Job Title:** Developer Advocate
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
 * **LinkedIn:** https://www.linkedin.com/in/timothyspann/
 * **Blog/Homepage:** https://datainmotion.dev
 * **Slides:** https://www.slideshare.net/bunkertor
 * **DevTo:** https://dev.to/tspannhw
 * **Sessionize:** https://sessionize.com/tspann/
-* **Cloudera Forum:** https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
+* **Forum:** https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
 * **Dzone Articles:** https://dzone.com/users/297029/bunkertor.html
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
-* https://www.airflowdagdeveloper.com/
+* https://www.airflowdagdeveloper.com/ https://flipstack.dev/
 * **My Meetups:** https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 
 ## Current Talk Topics
 
-* https://github.com/tspannhw/SpeakerProfile/blob/main/kafkatopics.md
 * https://github.com/tspannhw/SpeakerProfile/blob/main/nifitopics.md
 * https://github.com/tspannhw/SpeakerProfile/blob/main/flanktopics.md
 
 
 ## Some Topics In Development
 
-* BUILDING EVENT STREAMING MICROSERVICES WITH NiFI Stateless AND APACHE KAFKA
+* BUILDING EVENT STREAMING MICROSERVICES WITH NiFI Stateless AND APACHE PULSAR
 * CLOUD NATIVE STREAMING
 * USING REAL_TIME DATA FEEDS
-* IOT STREAMING WITH MQTT, MINIFI AND KAFKA
-* BUILDING REAL_TIME WEB APPLICATIONS WITH WEBSOCKETS AND KAFKA
+* IOT STREAMING WITH MQTT, MINIFI AND PULSAR
+* BUILDING REAL_TIME WEB APPLICATIONS WITH WEBSOCKETS AND PULSAR
 * KAFKA STREAM PROCESSING WITH SQL
-* CODELESS PIPELINES WITH KAFKA AND FLANK
-* BUILD A REAL_TIME PIPELINE NOW WITH KAFKA CONNECT and FLANK
+* CODELESS PIPELINES WITH KAFKA AND PULSAR
+* BUILD A REAL_TIME PIPELINE NOW WITH PULSAR FUNCTIONS
+* FLIP STACK FOR CLOUD DATA LAKES
 
 
 ## 📆 Events Upcoming and Recent
@@ -118,7 +113,7 @@ https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
 
 ## :pencil: Presenter Bio
 
-Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming developer advocate, open source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.   I was a Senior Field Engineer at Pivotal, a Senior Solutions Architect at airsData and a Senior Solutions Engineer at Hortonworks.
+Tim Spann is a Developer Advocate @ Streamnative, a streaming developer advocate, open source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.  I was a Principal DataFlow Field Engineer at Cloudera. I was a Senior Field Engineer at Pivotal, a Senior Solutions Architect at airsData and a Senior Solutions Engineer at Hortonworks.
 
 ## :love_letter: I am available for... 
 
@@ -148,7 +143,7 @@ Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming develo
 ## :gift: Subjects I cover... 
 
 - [x] Apache NiFi
-- [x] Apache Kafka
+- [x] Apache Pulsar
 - [x] Apache Flink
 - [x] IoT/IIoT
 - [x] Real-Time Streaming / Event Processing
@@ -161,6 +156,7 @@ Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming develo
 - [x] Machine Learning / Artificial Intelligence / Deep Learning
 - [x] Development tools
 - [x] Future of computing
+- [x] Mentoring 
 
 
 ## :dancer: Delivered at Your Event
@@ -168,25 +164,27 @@ Tim Spann is a Principal DataFlow Field Engineer at Cloudera, a streaming develo
 - [x] **A talk tailored to the audience.   I have many examples and use cases, so I can focus on that.  I have done that at Utilities Week.
 - [x] **I will promote your event and my talk through many social channels.
 - [x] **I will fit my talk and demo to your time available
-- [x] **I will bring backup equipment and presentation alterntives in case things arrive.
+- [x] **I will bring backup equipment and presentation alternatives in case things go sideways.
 - [x] **I can do extra talks if one is needed or someone is not available at the last minute.
 - [x] **I will visit all the booths, events and talks that I can.
-- [x] **I will do Ask-Me-Anything (AMA), informal chats and discussions with attendees.
-- [x] **I will do pre and post promotional videos, articles and activities.
-- [x] **I will be available to meet with organizers, speakers and attendees.
-- [x] **I am flexible and can do remote, pre-recorded or in-person (COVID safe).
+- [x] **I will do Ask-Me-Anything (AMA), birds of a feather, lunch discussions, dinner talks, informal chats and discussions with attendees.
+- [x] **I will do pre and post promotional videos, media, blogs, vlogs, podcasts, articles and activities.
+- [x] **I will be available to meet with organizers, speakers, sponsors and attendees.
+- [x] **I am flexible and can do remote, hybrid, pre-recorded or in-person (COVID safe).
 
 
 ## :computer: My setup for talks and events.
 
-- [x] I bring my own laptops with all the connectors needed
+- [x] I bring my own laptops with all the connectors needed.
+- [x] I will bring routers, wires and helpful things.
 - [x] I will give you and publish copies of the slides before the start.
+- [x] I will publish all of my materials, demos, source code to github.
 - [x] I tend to like to have devices for IoT demos that I bring with me and run during talks.
 - [x] If we need to use your computer, let me know before hand.
-
 
 ## :camera: Presenter Headshots 
 
 ![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/headshotTimSpann.png)
 
+2021 and beyond!
