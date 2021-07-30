@@ -48,7 +48,8 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/nifitopics.md
 * https://github.com/tspannhw/SpeakerProfile/blob/main/flanktopics.md
-* https://github.com/tspannhw/SpeakerProfile/blob/main/pulsartopics.md
+* https://github.com/tspannhw/SpeakerProfile/blob/main/pulsar.md
+* https://github.com/tspannhw/SpeakerProfile/blob/main/fliptopics.md
 
 
 ## Some Topics In Development
