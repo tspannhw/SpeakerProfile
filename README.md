@@ -74,12 +74,13 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 
 ## ✈️ Selection of Previous Events at a Glance
 
-AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink Forward Global Virtual 2020, DeveloperWeek Europe 2021, Apache Con Global 2020, Apache Beam Summit 2020, DevOps Stage Ukraine 2020, IoT Fusion, Strata NYC 2018/2019, Oracle Code NYC, Utilities Analytics Week, DataWorks Summit Berlin/Sydney/San Jose/DC/Barcelona, Open Source Summit Europe 2020, Big Data Conference 2020, Apache MXNet Day 2020, NoSQL Day 2019, Future of Data Prague 2018, Future of Data Philadelphia 2018, Future of Data Berlin 2018, Future of Data Princeton 2016/2017/2018/2019/2020/2021, BluePrint LDN 2021, Cloudera Now 2021, DataCon LA 2021, Cloudera Emerging Tech Day 2020/2021.
+AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink Forward Global Virtual 2020, DeveloperWeek Europe 2021, Apache Con Global 2020, Apache Beam Summit 2020, DevOps Stage Ukraine 2020, IoT Fusion, Strata NYC 2018/2019, Oracle Code NYC, Utilities Analytics Week, DataWorks Summit Berlin/Sydney/San Jose/DC/Barcelona, Open Source Summit Europe 2020, Big Data Conference 2020, Apache MXNet Day 2020, NoSQL Day 2019, Future of Data Prague 2018, Future of Data Philadelphia 2018, Future of Data Berlin 2018, Future of Data Princeton 2016/2017/2018/2019/2020/2021, BluePrint LDN 2021, Cloudera Now 2021, DataCon LA 2021, Cloudera Emerging Tech Day 2020/2021, Developer Week Europe 2021, DemoJam NiFi/Flink Cloudera 2021, AI/IoT Bulgaria Summit 2021, Data Science Online Camp 2021, Conf42: Machine Learning 2021.
 
 * https://www.datainmotion.dev/2020/12/my-year-in-review-2020.html
 * https://dev.to/tspannhw/year-and-decade-end-report-201-3ddm
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541 
+* https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=hQIktiaZQYOJA8211jBQow%3D%3D
 
 ## 🛰️ Youtube Channel
 
