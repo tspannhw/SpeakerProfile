@@ -20,6 +20,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://dzone.com/users/297029/bunkertor.html
 * https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/speaker/185963
 * https://www.flipstack.dev/
+* https://noti.st/tspannhw
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
