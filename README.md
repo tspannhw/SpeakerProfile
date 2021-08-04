@@ -4,6 +4,7 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 ![StreamNative](https://streamnative.io/static/images/streamnative-logo-white-bakground.png)
 
+![Conferences](https://emamo.com/event/worldfestival-2021/s/pro-talk-continuous-sql-with-flink-WR115a/share/square/wide?dpr=1)
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
