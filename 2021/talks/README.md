@@ -1,5 +1,12 @@
 # 2021 Talks
 
+# 08-Aug-2021 - ApacheConAsia - FLANK STACK WITH FLINK FOR STREAMING USE CASES
+TIMOTHY SPANN - ENGLISH SESSION 2021-08-08 14:50 GMT+8  #STREAMING
+
+https://apachecon.com/acasia2021/sessions/1025.html
+https://www.datainmotion.dev/2021/07/upcoming-apache-pulsar-and-apache-flink.html
+
+
 # 29-july-2021 - Conf42 - Machine Learning - Hail Hydrate!  From Stream to Lake
 
 Apache NiFi, Apache Flink, Apache Pulsar
