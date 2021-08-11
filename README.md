@@ -22,6 +22,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/speaker/185963
 * https://www.flipstack.dev/
 * https://noti.st/tspannhw
+* https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
@@ -43,7 +44,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
 * https://www.airflowdagdeveloper.com/ https://flipstack.dev/
-* **My Meetups:** https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
+* **My Meetups:** https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 
 ## Current Talk Topics
