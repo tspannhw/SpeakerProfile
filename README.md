@@ -23,6 +23,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://www.flipstack.dev/
 * https://noti.st/tspannhw
 * https://www.meetup.com/new-york-city-apache-pulsar-meetup/
+* https://speakerdeck.com/tspannhw
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
