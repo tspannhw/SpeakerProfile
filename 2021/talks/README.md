@@ -1,5 +1,12 @@
 # 2021 Talks
 
+# 18-Aug-2021 - World Festival - Dev Innovation Summit - Continous SQL with Flink
+https://github.com/tspannhw/FLiP-IoT
+https://emamo.com/event/worldfestival-2021/s/pro-talk-continuous-sql-with-flink-WR115a
+https://noti.st/tspannhw/pjnmzO/continuous-sql-with-apache-streaming-flank-and-flip
+https://www.slideshare.net/bunkertor/continuous-sql-with-apache-streaming-flank-and-flip-250003230
+
+
 # 08-Aug-2021 - ApacheConAsia - FLANK STACK WITH FLINK FOR STREAMING USE CASES
 TIMOTHY SPANN - ENGLISH SESSION 2021-08-08 14:50 GMT+8  #STREAMING
 
