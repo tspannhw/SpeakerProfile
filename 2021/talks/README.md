@@ -19,6 +19,9 @@ TIMOTHY SPANN - ENGLISH SESSION 2021-08-08 14:50 GMT+8  #STREAMING
 
 *  Apache NiFi, Apache Flink, Apache Pulsar
    https://www.conf42.com/Machine_Learning_2021_Tim_Spann_From_Stream_to_Lake
+   https://www.youtube.com/watch?v=CfCp_xPvxCg&list=PLIuxSyKxlQrD02X7IKNNxFMy_K8oEejAu&index=22
+   https://noti.st/tspannhw/jpsAVU/hail-hydrate-from-stream-to-lake
+   
 
 # 23-july-2021 - Data Science Online Camp - Continuous SQL with Apache Streaming
 
