@@ -13,6 +13,7 @@ TIMOTHY SPANN - ENGLISH SESSION 2021-08-08 14:50 GMT+8  #STREAMING
 
 * https://apachecon.com/acasia2021/sessions/1025.html
 * https://www.datainmotion.dev/2021/07/upcoming-apache-pulsar-and-apache-flink.html
+* https://www.youtube.com/watch?v=2G-ri_r1Tdk
 
 
 # 29-july-2021 - Conf42 - Machine Learning - Hail Hydrate!  From Stream to Lake
