@@ -29,6 +29,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
+![InfluxDBDay](https://pbs.twimg.com/media/E-70GO9X0AUd60_?format=jpg&name=small)
 
 ## :wave: Personal information
 
