@@ -1,5 +1,16 @@
 # 2021 Talks
 
+# 17-September-2021 - Music City - Hail Hydrate! From Stream to Lake 2pm EST
+
+* https://github.com/tspannhw/FLiP-SQL
+* https://www.slideshare.net/bunkertor/music-city-data-hail-hydrate-from-stream-to-lake
+
+# 17-September-2021 - DataConLa - Codeless Pipelines with Apache Pulsar and Apache Flin
+
+* https://github.com/tspannhw/FLiP-SQL
+* https://www.slideshare.net/bunkertor/codeless-pipelines-with-pulsar-and-flink
+
+
 # 18-Aug-2021 - World Festival - Dev Innovation Summit - Continous SQL with Flink
 
 * https://github.com/tspannhw/FLiP-IoT
