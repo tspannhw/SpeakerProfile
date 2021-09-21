@@ -1,5 +1,24 @@
 # 2021 Talks
 
+# 21-September-2021 - ApacheCon - Tuesday 17:10 UTC Apache NIFi Deep Dive 300
+
+* https://github.com/tspannhw/EverythingApacheNiFi
+* https://github.com/tspannhw/FLiP-ApacheCon2021
+* https://www.datainmotion.dev/2020/06/no-more-spaghetti-flows.html 
+* https://github.com/tspannhw/FLiP-IoT
+* https://github.com/tspannhw/FLiP-Energy
+* https://github.com/tspannhw/FLiP-SOLR
+* https://github.com/tspannhw/FLiP-EdgeAI
+* https://github.com/tspannhw/FLiP-CloudQueries
+* https://github.com/tspannhw/FLiP-Jetson
+
+# 21-September-2021 - ApacheCon - Tuesday 18:00 UTC Apache Deep Learning 302
+
+* https://github.com/tspannhw/ApacheDeepLearning302/
+* https://github.com/tspannhw/nifi-djl-processor
+* https://github.com/tspannhw/nifi-djlsentimentanalysis-processor
+* https://github.com/tspannhw/nifi-djlqa-processor
+
 # 17-September-2021 - Music City - Hail Hydrate! From Stream to Lake 2pm EST
 
 * https://github.com/tspannhw/FLiP-SQL
