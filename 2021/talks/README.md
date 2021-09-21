@@ -14,6 +14,7 @@
 * https://www.linkedin.com/pulse/2021-schedule-tim-spann/
 * https://www.slideshare.net/bunkertor/apachecon-2021-apache-nifi-deep-dive-300
 * https://www.apachecon.com/acah2021/tracks/bigdatastream.html
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Apache%20NIFi%20Deep%20Dive%20300.pdf
 
 # 21-September-2021 - ApacheCon - Tuesday 18:00 UTC Apache Deep Learning 302
 
@@ -24,6 +25,7 @@
 * https://www.linkedin.com/pulse/2021-schedule-tim-spann/
 * https://www.apachecon.com/acah2021/tracks/bigdata.html
 * https://www.slideshare.net/bunkertor/apachecon-2021-apache-deep-learning-302
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Apache%20Deep%20Learning%20302.pdf
 
 # 17-September-2021 - Music City - Hail Hydrate! From Stream to Lake 2pm EST
 
