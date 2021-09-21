@@ -11,6 +11,9 @@
 * https://github.com/tspannhw/FLiP-EdgeAI
 * https://github.com/tspannhw/FLiP-CloudQueries
 * https://github.com/tspannhw/FLiP-Jetson
+* https://www.linkedin.com/pulse/2021-schedule-tim-spann/
+* https://www.slideshare.net/bunkertor/apachecon-2021-apache-nifi-deep-dive-300
+* https://www.apachecon.com/acah2021/tracks/bigdatastream.html
 
 # 21-September-2021 - ApacheCon - Tuesday 18:00 UTC Apache Deep Learning 302
 
@@ -18,6 +21,9 @@
 * https://github.com/tspannhw/nifi-djl-processor
 * https://github.com/tspannhw/nifi-djlsentimentanalysis-processor
 * https://github.com/tspannhw/nifi-djlqa-processor
+* https://www.linkedin.com/pulse/2021-schedule-tim-spann/
+* https://www.apachecon.com/acah2021/tracks/bigdata.html
+* https://www.slideshare.net/bunkertor/apachecon-2021-apache-deep-learning-302
 
 # 17-September-2021 - Music City - Hail Hydrate! From Stream to Lake 2pm EST
 
