@@ -1,5 +1,10 @@
 # 2021 Talks
 
+# 27-September-2021 - Open Source Summit - Haily Hydrate!  From Stream to Lake Using Open Source
+
+* https://osselc21.sched.com/event/lAPi?iframe=no
+* https://static.sched.com/hosted_files/osselc21/a1/Hail%20Hydrate%21%20From%20Stream%20to%20Lake%20Using%20Open%20Source.pdf
+
 # 21-September-2021 - ApacheCon - Tuesday 17:10 UTC Apache NIFi Deep Dive 300
 
 * https://github.com/tspannhw/EverythingApacheNiFi
