@@ -8,7 +8,7 @@
 # 22-September-2021 - ApacheCon - Wednesday 15:00 UTC - Smart Transit: Real-Time Transit Information with FLiP 
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Smart%20Transit_%20%20Real-Time%20Transit%20Information%20with%20FLiP.pdf
-* https://www.slideshare.net/bunkertor/apachecon-2021-cracking-the-nut-with-apache-pulsar-flip
+* https://www.slideshare.net/bunkertor/apachecon-2021-smart-transit-realtime-transit-information-with-flip
 
 
 # 22-September-2021 - ApacheCon - Wednesday 17:10 UTC - Cracking the Nut, Solving Edge AI with Apache Tools and Frameworks 
