@@ -5,6 +5,14 @@
 * https://osselc21.sched.com/event/lAPi?iframe=no
 * https://static.sched.com/hosted_files/osselc21/a1/Hail%20Hydrate%21%20From%20Stream%20to%20Lake%20Using%20Open%20Source.pdf
 
+# 23-September-2021 - ApacheCon - Thursday 14:10 UTC - Apache NiFi 101: Introduction and Best Practices
+
+* https://github.com/tspannhw/EverythingApacheNiFi
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Apache%20NiFi%20101_%20Introduction%20and%20Best%20Practices%20(1).pdf
+* https://www.slideshare.net/bunkertor/apachecon-2021-apache-nifi-101-introduction-and-best-practices
+* https://github.com/tspannhw/FLiP-ApacheCon2021
+
+
 # 22-September-2021 - ApacheCon - Wednesday 15:00 UTC - Smart Transit: Real-Time Transit Information with FLiP 
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Smart%20Transit_%20%20Real-Time%20Transit%20Information%20with%20FLiP.pdf
