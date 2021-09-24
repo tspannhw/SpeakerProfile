@@ -5,6 +5,12 @@
 * https://osselc21.sched.com/event/lAPi?iframe=no
 * https://static.sched.com/hosted_files/osselc21/a1/Hail%20Hydrate%21%20From%20Stream%20to%20Lake%20Using%20Open%20Source.pdf
 
+# 24-September-2021 - Scenic City Summit. Virtual. Real-Time Streaming in Any and All Clouds, Hybrid and Beyond
+
+* https://github.com/tspannhw/FLiP-CloudIngest
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/Scenic%20City%20Summit%20-%20Real-Time%20Streaming%20in%20Any%20and%20All%20Clouds%2C%20Hybrid%20and%20Beyond.pdf
+* https://www.slideshare.net/bunkertor/scenic-city-summit-2021-realtime-streaming-in-any-and-all-clouds-hybrid-and-beyond
+
 # 23-September-2021 - ApacheCon - Thursday 14:10 UTC - Apache NiFi 101: Introduction and Best Practices
 
 * https://github.com/tspannhw/EverythingApacheNiFi
