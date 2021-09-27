@@ -1,6 +1,6 @@
 # 2021 Talks
 
-# 27-September-2021 - Open Source Summit - Haily Hydrate!  From Stream to Lake Using Open Source
+# 27-September-2021 - Open Source Summit - Hail Hydrate!  From Stream to Lake Using Open Source
 
 * https://osselc21.sched.com/event/lAPi?iframe=no
 * https://static.sched.com/hosted_files/osselc21/a1/Hail%20Hydrate%21%20From%20Stream%20to%20Lake%20Using%20Open%20Source.pdf
