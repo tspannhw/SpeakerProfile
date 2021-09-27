@@ -1,5 +1,12 @@
 # 2021 Talks
 
+# 28-September-2021 - Big Data Conference Europe - Real-Time Streaming in Any and All Clouds, Hybrid and Beyond
+
+* https://bigdataconference.eu/Timothy-J-Spann/
+* https://www.slideshare.net/bunkertor/big-data-conference-europe-realtime-streaming-in-any-and-all-clouds-hybrid-and-beyond
+* https://github.com/tspannhw/SpeakerProfile/raw/main/2021/talks/Big%20Data%20Conference%20Europe%20-%20Real-Time%20Streaming%20in%20Any%20and%20All%20Clouds%2C%20Hybrid%20and%20Beyond.pdf
+
+
 # 27-September-2021 - Open Source Summit - Hail Hydrate!  From Stream to Lake Using Open Source
 
 * https://osselc21.sched.com/event/lAPi?iframe=no
