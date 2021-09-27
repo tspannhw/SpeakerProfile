@@ -4,6 +4,8 @@
 
 * https://osselc21.sched.com/event/lAPi?iframe=no
 * https://static.sched.com/hosted_files/osselc21/a1/Hail%20Hydrate%21%20From%20Stream%20to%20Lake%20Using%20Open%20Source.pdf
+* https://osselc21.sched.com/event/lAPi/virtual-hail-hydrate-from-stream-to-lake-using-open-source-timothy-j-spann-streamnative
+* https://www.slideshare.net/bunkertor/hail-hydrate-from-stream-to-lake-using-open-source
 
 # 24-September-2021 - Scenic City Summit. Virtual. Real-Time Streaming in Any and All Clouds, Hybrid and Beyond
 
