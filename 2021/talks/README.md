@@ -1,5 +1,13 @@
 # 2021 Talks
 
+# Upcoming
+
+# October 6, 2021 - Pulsar Summit Europe
+
+![Pulsar Summit](https://pbs.twimg.com/media/FAi2tZ3VIAEV0XG?format=jpg&name=large)
+
+* https://pulsar-summit.org/en/event/europe-2021/sessions/Using-the-FLiPN-Stack-for-Edge-AI-Flink-NiFi-Pulsar
+
 # See
 
 https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
