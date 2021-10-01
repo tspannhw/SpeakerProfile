@@ -4,7 +4,7 @@
 
 https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
 
-[image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
 
 
 # 30-September-2021 - Pulsar Microservices - Part Three: Streaming Analytics Using FlinkSQL, September 30th, 12:00 PM PT / 3:00 PM ET
