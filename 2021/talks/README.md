@@ -76,6 +76,8 @@
 
 * https://github.com/tspannhw/FLiP-SQL
 * https://www.slideshare.net/bunkertor/codeless-pipelines-with-pulsar-and-flink
+* https://www.youtube.com/watch?v=poYiDnEeKL8
+* https://github.com/tspannhw/SpeakerProfile/blob/main/Codeless%20Pipelines%20with%20Pulsar%20and%20Flink.pdf
 
 
 # 18-Aug-2021 - World Festival - Dev Innovation Summit - Continous SQL with Flink
