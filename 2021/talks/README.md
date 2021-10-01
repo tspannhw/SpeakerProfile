@@ -1,5 +1,12 @@
 # 2021 Talks
 
+# 30-September-2021 - Pulsar Microservices - Part Three: Streaming Analytics Using FlinkSQL, September 30th, 12:00 PM PT / 3:00 PM ET
+
+* https://dev.to/tspannhw/streaming-analytics-using-flinksql-webinar-3fa9
+* https://github.com/tspannhw/StreamingAnalyticsUsingFlinkSQL
+* https://streamnative.io/event/webinar-series-building-microservices-with-pulsar/
+
+
 # 28-September-2021 - Big Data Conference Europe - Real-Time Streaming in Any and All Clouds, Hybrid and Beyond
 
 * https://bigdataconference.eu/Timothy-J-Spann/
