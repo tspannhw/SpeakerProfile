@@ -8,7 +8,7 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
-# Tim Spann - Principal Field Engineer, Developer Advocate, Author
+# Tim Spann - Streaming Engineer, Data Person, Programmer, Developer Advocate, Author
 
 Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   I did five talks at ApacheCon that one
 time.
