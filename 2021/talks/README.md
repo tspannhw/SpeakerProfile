@@ -14,18 +14,22 @@
 * https://passdatacommunitysummit.com/?
 * https://dscamp.org/
 
+# See
+
+https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
+
+![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+
 
 # October 6, 2021 - Pulsar Summit Europe
 
 ![Pulsar Summit](https://pbs.twimg.com/media/FAi2tZ3VIAEV0XG?format=jpg&name=large)
 
 * https://pulsar-summit.org/en/event/europe-2021/sessions/Using-the-FLiPN-Stack-for-Edge-AI-Flink-NiFi-Pulsar
+* https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar
+* https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar
 
-# See
-
-https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
-
-![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+![talk](https://pbs.twimg.com/media/FBBgBMhVEAM9mLy?format=jpg&name=large)
 
 
 # 30-September-2021 - Pulsar Microservices - Part Three: Streaming Analytics Using FlinkSQL, September 30th, 12:00 PM PT / 3:00 PM ET
