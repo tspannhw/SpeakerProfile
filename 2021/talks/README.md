@@ -2,6 +2,19 @@
 
 # Upcoming
 
+* https://www.cloudlunchlearn.com/marathon/
+* https://lucidworks.com/activate-conference/
+* https://www.sqlpass.de/dbcc-international-edition/
+* https://developer.cisco.com/devnetcreate/
+* https://www.starburst.io/info/trinosummit/
+* https://www.utahgeekevents.com/events/big-mountain-data-dev-2021/
+* https://www.influxdays.com/
+* https://apiworld.co/api-world-speaker/?s=Timothy%20Spann&se=Apache%20NiFi%20101:%20Introduction%20and%20Best%20Practices&img1=https://sessionize.com/image/8fa6-200o200o2-WooP9UuwTmN98DQfD4HHYZ.png&
+* https://altinity.com/osa-con-2021/
+* https://passdatacommunitysummit.com/?
+* https://dscamp.org/
+
+
 # October 6, 2021 - Pulsar Summit Europe
 
 ![Pulsar Summit](https://pbs.twimg.com/media/FAi2tZ3VIAEV0XG?format=jpg&name=large)
