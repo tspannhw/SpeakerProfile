@@ -28,6 +28,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://spring.io/blog/2015/01/30/why-12-factor-application-patterns-microservices-and-cloudfoundry-matter
 * https://www.academy.streamnative.io/
 * https://discord.gg/NKhYNX9ScC
+* https://dashboard.twitch.tv/u/tspannstreamnative/home
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
