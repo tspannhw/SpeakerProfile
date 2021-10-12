@@ -67,18 +67,21 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Apache%20NiFi%20101_%20Introduction%20and%20Best%20Practices%20(1).pdf
 * https://www.slideshare.net/bunkertor/apachecon-2021-apache-nifi-101-introduction-and-best-practices
 * https://github.com/tspannhw/FLiP-ApacheCon2021
+* https://www.youtube.com/watch?v=jeyiCY_YTVk&list=PLU2OcwpQkYCwZfTRhACzyM6QT1qPijPFw&index=15
 
 
 # 22-September-2021 - ApacheCon - Wednesday 15:00 UTC - Smart Transit: Real-Time Transit Information with FLiP 
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Smart%20Transit_%20%20Real-Time%20Transit%20Information%20with%20FLiP.pdf
 * https://www.slideshare.net/bunkertor/apachecon-2021-smart-transit-realtime-transit-information-with-flip
+* https://www.youtube.com/watch?v=BU3WMdc3fQY&list=PLU2OcwpQkYCwZfTRhACzyM6QT1qPijPFw&index=80
 
 
 # 22-September-2021 - ApacheCon - Wednesday 17:10 UTC - Cracking the Nut, Solving Edge AI with Apache Tools and Frameworks 
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Cracking%20the%20Nut%20with%20Apache%20Pulsar%20(FLiP).pdf
 * https://www.slideshare.net/bunkertor/apachecon-2021-cracking-the-nut-with-apache-pulsar-flip
+* https://www.youtube.com/watch?v=Z-ouNEoiF2E&list=PLU2OcwpQkYCwZfTRhACzyM6QT1qPijPFw&index=138
 
 
 # 21-September-2021 - ApacheCon - Tuesday 17:10 UTC Apache NIFi Deep Dive 300
@@ -96,6 +99,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://www.slideshare.net/bunkertor/apachecon-2021-apache-nifi-deep-dive-300
 * https://www.apachecon.com/acah2021/tracks/bigdatastream.html
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Apache%20NIFi%20Deep%20Dive%20300.pdf
+* https://www.youtube.com/watch?v=dQ_IxQMbFRE&list=PLU2OcwpQkYCwZfTRhACzyM6QT1qPijPFw&index=76
 
 # 21-September-2021 - ApacheCon - Tuesday 18:00 UTC Apache Deep Learning 302
 
@@ -107,6 +111,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://www.apachecon.com/acah2021/tracks/bigdata.html
 * https://www.slideshare.net/bunkertor/apachecon-2021-apache-deep-learning-302
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/ApacheCon%202021%20-%20Apache%20Deep%20Learning%20302.pdf
+* https://www.youtube.com/watch?v=EOV_-7_DHNk&list=PLU2OcwpQkYCwZfTRhACzyM6QT1qPijPFw&index=57
 
 # 17-September-2021 - Music City - Hail Hydrate! From Stream to Lake 2pm EST
 
