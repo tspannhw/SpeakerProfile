@@ -30,6 +30,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://www.academy.streamnative.io/
 * https://github.com/tspannhw/Flip-Jetson
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/Using%20the%20FLiPN%20Stack%20for%20Edge%20AI%20(Flink%2C%20NiFi%2C%20Pulsar).pdf
+* https://www.youtube.com/watch?v=pfhoF3yTdHU
 
 ![talk](https://pbs.twimg.com/media/FBBgBMhVEAM9mLy?format=jpg&name=large)
 
