@@ -2,7 +2,6 @@
 
 # Upcoming
 
-* https://www.cloudlunchlearn.com/marathon/
 * https://lucidworks.com/activate-conference/
 * https://www.sqlpass.de/dbcc-international-edition/
 * https://developer.cisco.com/devnetcreate/
@@ -19,6 +18,18 @@
 https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+
+# October 13, 2021 - Cloud Lunch N Learn - Real Time Streaming in Azure with Pulsar
+
+* https://www.slideshare.net/bunkertor/cloud-lunch-and-learn-realtime-streaming-in-azure
+* https://www.meetup.com/AzureDublin/events/281020718
+* https://www.cloudlunchlearn.com/marathon/
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/Cloud%20Lunch%20and%20Learn%20-%20Real-Time%20Streaming%20in%20Azure.pdf
+* https://www.cloudlunchlearn.com/weeklysessions
+* @CloudLunchLearn
+* https://www.youtube.com/c/CloudLunchandLearn/videos
+* https://github.com/tspannhw/Flip-SQL
+
 
 
 # October 6, 2021 - Pulsar Summit Europe
