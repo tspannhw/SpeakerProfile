@@ -12,6 +12,7 @@
 * https://altinity.com/osa-con-2021/
 * https://passdatacommunitysummit.com/?
 * https://dscamp.org/
+* https://streamnative.io/event/twitch-realtime-discussions-on-realtime-data-processing/?utm_campaign=Monthly%20Newsletter&utm_medium=email&_hsmi=170438845&_hsenc=p2ANqtz--SYWlJTsM-qM4umIlguc0lgnAR4pNDn872uI7OMLBNZv1wOD3ltQM0AELMDU19zDk5Fa7fDZDTu6YhCYzoifMKpe54R8xPJS-2WB8cHe9MpXXg2DA&utm_content=170436954&utm_source=hs_email
 
 # See
 
@@ -42,6 +43,8 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://github.com/tspannhw/Flip-Jetson
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/Using%20the%20FLiPN%20Stack%20for%20Edge%20AI%20(Flink%2C%20NiFi%2C%20Pulsar).pdf
 * https://www.youtube.com/watch?v=pfhoF3yTdHU
+* https://pulsar-summit.org/en/event/europe-2021/sessions/Using-the-FLiPN-Stack-for-Edge-AI-Flink-NiFi-Pulsar
+* https://www.slideshare.net/streamnative/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-pulsar-virtual-summit-europe-2021
 
 ![talk](https://pbs.twimg.com/media/FBBgBMhVEAM9mLy?format=jpg&name=large)
 
