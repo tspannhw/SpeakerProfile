@@ -24,6 +24,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 * https://lucidworks.com/activate-conference/
 * https://vimeo.com/628573854 
+* https://github.com/tspannhw/FLiP-SOLR
 * https://www.slideshare.net/bunkertor/real-time-cloud-native-open-source-streaming-of-any-data-to-apache-solr
 * https://github.com/tspannhw/SpeakerProfile/raw/main/2021/talks/Real-Time%20Cloud%20Native%20Open%20Source%20Streaming%20Of%20Any%20Data%20to%20Apache%20Solr.pdf
 
