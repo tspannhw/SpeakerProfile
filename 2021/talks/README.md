@@ -2,8 +2,6 @@
 
 # Upcoming
 
-
-* https://www.sqlpass.de/dbcc-international-edition/
 * https://developer.cisco.com/devnetcreate/
 * https://www.starburst.io/info/trinosummit/
 * https://www.utahgeekevents.com/events/big-mountain-data-dev-2021/
@@ -12,13 +10,21 @@
 * https://altinity.com/osa-con-2021/
 * https://passdatacommunitysummit.com/?
 * https://dscamp.org/
-* https://streamnative.io/event/twitch-realtime-discussions-on-realtime-data-processing/?utm_campaign=Monthly%20Newsletter&utm_medium=email&_hsmi=170438845&_hsenc=p2ANqtz--SYWlJTsM-qM4umIlguc0lgnAR4pNDn872uI7OMLBNZv1wOD3ltQM0AELMDU19zDk5Fa7fDZDTu6YhCYzoifMKpe54R8xPJS-2WB8cHe9MpXXg2DA&utm_content=170436954&utm_source=hs_email
+* https://streamnative.io/event/twitch-realtime-discussions-on-realtime-data-processing/
 
 # See
 
 https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+
+# October 15, 2021 - DBCC International
+
+* https://www.slideshare.net/bunkertor/dbcc-2021-flip-stack-for-cloud-data-lakes
+* https://www.sqlpass.de/dbcc-international-edition/
+* https://github.com/tspannhw/FLiP-SQL
+* https://github.com/tspannhw/SpeakerProfile/raw/main/2021/talks/DBCC%20-%20FLiP%20Stack%20for%20Cloud%20Data%20Lake.pdf
+
 
 # October 14, 2021 - Activate
 
