@@ -45,6 +45,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * @CloudLunchLearn
 * https://www.youtube.com/c/CloudLunchandLearn/videos
 * https://github.com/tspannhw/Flip-SQL
+* https://www.youtube.com/watch?v=TP3VQ2rkvzg
 
 
 
