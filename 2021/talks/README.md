@@ -18,7 +18,17 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 
 * https://developer.cisco.com/devnetcreate/
+
+
+# Oct 22, 2021 - Utah Geek Events - Big Mountain Data and Dev Conference
+
+* https://www.slideshare.net/bunkertor/big-mountain-data-and-dev-conference-apache-pulsar-with-mqtt-for-edge-computing
 * https://www.utahgeekevents.com/events/big-mountain-data-dev-2021/
+* https://streamnative.io/download/oreilly-ebook-mastering-apache-pulsar/
+* https://streamnative.io/download/manning-ebook-apache-pulsar-in-action/
+* https://www.youtube.com/channel/UCG7UFURIYnTiyeBGDBw15SA
+* https://github.com/tspannhw/FLiP-EdgeAI
+
 
 # Oct 22, 2021 - Trino Summit
 
