@@ -2,9 +2,7 @@
 
 # Upcoming
 
-* https://developer.cisco.com/devnetcreate/
-* https://www.starburst.io/info/trinosummit/
-* https://www.utahgeekevents.com/events/big-mountain-data-dev-2021/
+
 * https://www.influxdays.com/
 * https://apiworld.co/api-world-speaker/?s=Timothy%20Spann&se=Apache%20NiFi%20101:%20Introduction%20and%20Best%20Practices&img1=https://sessionize.com/image/8fa6-200o200o2-WooP9UuwTmN98DQfD4HHYZ.png&
 * https://altinity.com/osa-con-2021/
@@ -17,6 +15,19 @@
 https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+
+
+* https://developer.cisco.com/devnetcreate/
+* https://www.utahgeekevents.com/events/big-mountain-data-dev-2021/
+
+# Oct 22, 2021 - Trino Summit
+
+* https://www.starburst.io/info/trinosummit/
+* https://github.com/tspannhw/StreamingAnalyticsUsingFlinkSQL/tree/main/src/main/java
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/FLiP%20into%20Trino%20(1).pdf
+* https://github.com/tspannhw/FLiP-Into-Trino/blob/main/README.md
+* https://www.slideshare.net/bunkertor/flip-into-trino
+
 
 # October 15, 2021 - DBCC International
 
