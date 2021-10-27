@@ -3,7 +3,7 @@
 # Upcoming
 
 
-* https://www.influxdays.com/
+
 * https://apiworld.co/api-world-speaker/?s=Timothy%20Spann&se=Apache%20NiFi%20101:%20Introduction%20and%20Best%20Practices&img1=https://sessionize.com/image/8fa6-200o200o2-WooP9UuwTmN98DQfD4HHYZ.png&
 * https://altinity.com/osa-con-2021/
 * https://passdatacommunitysummit.com/?
@@ -16,6 +16,23 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
 
+# Oct 27, 2021 - Flink Forward
+
+
+# Oct 27, 2021 - InfluxDays
+
+* https://www.influxdays.com/
+* https://www.slideshare.net/bunkertor/using-flip-with-influxdb-for-edgeai-iot-at-scale
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/Using%20FLiP%20With%20influxdb%20for%20EdgeAI%20IoT%20At%20Scale.pptx.pdf
+* https://github.com/tspannhw/Flip-influxdb
+
+# Oct 27, 2021 - AI Dev World
+
+* https://aidevworld.com/
+* https://www.slideshare.net/bunkertor/ai-dev-world-utilizing-apache-pulsar-apache-ni-fi-and-minifi-for-edgeai-iot-at-scale
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/AI%20Dev%20World%20-%20Utilizing%20Apache%20Pulsar%2C%20Apache%20NiFi%20and%20MiNiFi%20for%20EdgeAI%20IoT%20at%20Scale.pdf
+
+# Oct 2021 - Cisco Dev Net Create
 
 * https://developer.cisco.com/devnetcreate/
 
