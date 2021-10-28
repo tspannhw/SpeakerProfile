@@ -27,6 +27,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 # Oct 27, 2021 - Flink Forward
 
+* https://www.flink-forward.org/global-2021/conference-program#sponsored-interactive-session--ama----pulsar-and-flink-for-unified-data-processing
 
 # Oct 27, 2021 - InfluxDays
 
