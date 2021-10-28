@@ -4,7 +4,7 @@
 
 
 
-* https://apiworld.co/api-world-speaker/?s=Timothy%20Spann&se=Apache%20NiFi%20101:%20Introduction%20and%20Best%20Practices&img1=https://sessionize.com/image/8fa6-200o200o2-WooP9UuwTmN98DQfD4HHYZ.png&
+
 * https://altinity.com/osa-con-2021/
 * https://passdatacommunitysummit.com/?
 * https://dscamp.org/
@@ -15,6 +15,15 @@
 https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+
+
+# Oct 28, 2021 - API World
+
+* https://www.slideshare.net/bunkertor/api-world-apache-nifi-101
+* https://apiworld.co/api-world-speaker/?s=Timothy%20Spann&se=Apache%20NiFi%20101:%20Introduction%20and%20Best%20Practices&img1=https://sessionize.com/image/8fa6-200o200o2-WooP9UuwTmN98DQfD4HHYZ.png&
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/API%20World%20-%20Apache%20NiFi%20101.pdf
+* https://github.com/tspannhw/EverythingApacheNiFi
+
 
 # Oct 27, 2021 - Flink Forward
 
