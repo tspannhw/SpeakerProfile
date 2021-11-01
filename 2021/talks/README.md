@@ -45,6 +45,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 # Oct 2021 - Cisco Dev Net Create
 
 * https://developer.cisco.com/devnetcreate/
+* https://youtu.be/eDy_sFIRN9A
 
 
 # Oct 22, 2021 - Utah Geek Events - Big Mountain Data and Dev Conference
