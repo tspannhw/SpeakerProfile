@@ -5,7 +5,7 @@
 
 
 
-* https://altinity.com/osa-con-2021/
+
 * https://passdatacommunitysummit.com/?
 * https://dscamp.org/
 * https://streamnative.io/event/twitch-realtime-discussions-on-realtime-data-processing/
@@ -16,6 +16,12 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
 
+# Nov 2, 2021 - OSA Con 2021
+
+* https://www.slideshare.net/bunkertor/osacon-2021-hello-hydrate-from-stream-to-clickhouse-with-apache-pulsar-and-friends
+* https://altinity.com/osa-con-2021/
+* https://github.com/tspannhw/FLiP-Stream2Clickhouse/blob/main/README.md
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/OSACON%202021%20-%20Hello%20Hydrate!%20From%20Stream%20to%20Clickhouse%20with%20Apache%20Pulsar%20and%20Friends.pdf
 
 # Oct 28, 2021 - API World
 
