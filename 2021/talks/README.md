@@ -2,10 +2,6 @@
 
 # Upcoming
 
-
-
-
-
 * https://passdatacommunitysummit.com/?
 * https://dscamp.org/
 * https://streamnative.io/event/twitch-realtime-discussions-on-realtime-data-processing/
@@ -22,6 +18,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://altinity.com/osa-con-2021/
 * https://github.com/tspannhw/FLiP-Stream2Clickhouse/blob/main/README.md
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/OSACON%202021%20-%20Hello%20Hydrate!%20From%20Stream%20to%20Clickhouse%20with%20Apache%20Pulsar%20and%20Friends.pdf
+* https://www.youtube.com/watch?v=AYxcA-ENvA0
 
 # Oct 28, 2021 - API World
 
@@ -41,6 +38,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://www.slideshare.net/bunkertor/using-flip-with-influxdb-for-edgeai-iot-at-scale
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/Using%20FLiP%20With%20influxdb%20for%20EdgeAI%20IoT%20At%20Scale.pptx.pdf
 * https://github.com/tspannhw/Flip-influxdb
+* https://www.youtube.com/watch?v=BlsQyVi-B-Y
 
 # Oct 27, 2021 - AI Dev World
 
