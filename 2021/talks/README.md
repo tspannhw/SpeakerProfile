@@ -69,6 +69,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/FLiP%20into%20Trino%20(1).pdf
 * https://github.com/tspannhw/FLiP-Into-Trino/blob/main/README.md
 * https://www.slideshare.net/bunkertor/flip-into-trino
+* https://www.starburst.io/resources/trino-summit/?wchannelid=2ug6mgs5ao&amp;wmediaid=aym9rv6ax8&amp;wvideo=aym9rv6ax8
 
 
 # October 15, 2021 - DBCC International
