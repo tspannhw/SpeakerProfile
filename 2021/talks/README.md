@@ -100,8 +100,6 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://github.com/tspannhw/Flip-SQL
 * https://www.youtube.com/watch?v=TP3VQ2rkvzg
 
-
-
 # October 6, 2021 - Pulsar Summit Europe
 
 ![Pulsar Summit](https://pbs.twimg.com/media/FAi2tZ3VIAEV0XG?format=jpg&name=large)
@@ -138,6 +136,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://static.sched.com/hosted_files/osselc21/a1/Hail%20Hydrate%21%20From%20Stream%20to%20Lake%20Using%20Open%20Source.pdf
 * https://osselc21.sched.com/event/lAPi/virtual-hail-hydrate-from-stream-to-lake-using-open-source-timothy-j-spann-streamnative
 * https://www.slideshare.net/bunkertor/hail-hydrate-from-stream-to-lake-using-open-source
+* https://www.youtube.com/watch?v=v7bQldwbZQE&list=PLbzoR-pLrL6q8QMGJ4dFnqejkHDm76kJV&index=107
 
 # 24-September-2021 - Scenic City Summit. Virtual. Real-Time Streaming in Any and All Clouds, Hybrid and Beyond
 
