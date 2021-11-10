@@ -2,7 +2,6 @@
 
 # Upcoming
 
-* https://passdatacommunitysummit.com/?
 * https://dscamp.org/
 * https://streamnative.io/event/twitch-realtime-discussions-on-realtime-data-processing/
 
@@ -48,6 +47,7 @@ Pass data community summit - 2021 - Real-Time Streaming in Azure with Apache Pul
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/Using%20FLiP%20With%20influxdb%20for%20EdgeAI%20IoT%20At%20Scale.pptx.pdf
 * https://github.com/tspannhw/Flip-influxdb
 * https://www.youtube.com/watch?v=BlsQyVi-B-Y
+* https://www.influxdays.com/past-events-na-virtual-experience-2021/?utm_source=newsletter&utm_medium=email&utm_campaign=2021-10-26_event_influxdays-na-virtual_global&utm_content=nl-2021-11-10&mkt_tok=OTcyLUdEVS01MzMAAAGAqfvFarxEb80EZFHiTZJ6Cx_UFhWz4O_8cRR64klH8RW1yZPLekJU6FHA05fjG3C5mieYXO-Hyokaljt6Cx-KDO2BcomdoZydyhC4vOcs
 
 # Oct 27, 2021 - AI Dev World
 
