@@ -12,6 +12,15 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
 
+# Nov 10, 2021 - PASS Data Community Summit
+
+Pass data community summit - 2021 - Real-Time Streaming in Azure with Apache Pulsar 
+* https://passdatacommunitysummit.com/
+* https://www.slideshare.net/bunkertor/pass-data-community-summit-2021-realtime-streaming-in-azure-with-apache-pulsar
+* https://static.rainfocus.com/redgate/summit2021/sess/1629311214803001s2MB/pptdemoupload/PASSDataCommunitySummit_2021_TSPANN_Pulsar_1634757210162001mnBe.pdf
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/PASSDataCommunitySummit_2021_TSPANN_Pulsar_1634757210162001mnBe.pdf
+
+
 # Nov 2, 2021 - OSA Con 2021
 
 * https://www.slideshare.net/bunkertor/osacon-2021-hello-hydrate-from-stream-to-clickhouse-with-apache-pulsar-and-friends
