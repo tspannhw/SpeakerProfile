@@ -27,6 +27,7 @@ Pass data community summit - 2021 - Real-Time Streaming in Azure with Apache Pul
 * https://github.com/tspannhw/FLiP-Stream2Clickhouse/blob/main/README.md
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2021/talks/OSACON%202021%20-%20Hello%20Hydrate!%20From%20Stream%20to%20Clickhouse%20with%20Apache%20Pulsar%20and%20Friends.pdf
 * https://www.youtube.com/watch?v=AYxcA-ENvA0
+* https://youtu.be/K9MOiG1oz-0
 
 # Oct 28, 2021 - API World
 
