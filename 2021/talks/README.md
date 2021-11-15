@@ -11,6 +11,11 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
 
+# Nov 15, 2021 - Automation + DevOps Summit 2021
+
+* https://www.slideshare.net/bunkertor/automation-dev-ops-summit-hail-hydrate-from-stream-to-lake
+
+
 # Nov 10, 2021 - PASS Data Community Summit
 
 Pass data community summit - 2021 - Real-Time Streaming in Azure with Apache Pulsar 
