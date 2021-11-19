@@ -11,6 +11,15 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
 
+# Nov 19, 2021 - Porto Tech Hub Conference
+
+* https://www.slideshare.net/bunkertor/portotechhub-hail-hydrate-from-stream-to-lake-with-apache-pulsar-and-friends
+* https://portotechhub.com/conference-2021/
+* https://github.com/tspannhw/pulsar-sentiment-function
+* https://github.com/tspannhw/FLiP-Meetup-Chat
+* https://github.com/tspannhw/FLiP-Mobile
+
+
 # Nov 15, 2021 - Automation + DevOps Summit 2021
 
 * https://www.slideshare.net/bunkertor/automation-dev-ops-summit-hail-hydrate-from-stream-to-lake
