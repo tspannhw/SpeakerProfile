@@ -18,6 +18,7 @@ time.
 Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative Cloud, Apache Pulsar, Apache Flink, Flink SQL, Apache NiFi, MiniFi, Apache MXNet, TensorFlow, Apache Spark, big data, the IoT, machine learning, and deep learning. Tim has over a decade of experience with the IoT, big data, distributed computing, streaming technologies, and Java programming. Previously, he was a Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton on big data, the IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as IoT Fusion, Strata, ApacheCon, Data Works Summit Berlin, DataWorks Summit Sydney, and Oracle Code NYC. He holds a BS and MS in computer science.
 
 * https://linktr.ee/tspannhw
+* https://g.dev/timspann
 * https://www.datainmotion.dev/p/about-me.html
 * https://dzone.com/users/297029/bunkertor.html
 * https://conferences.oreilly.com/strata/strata-ny-2018/public/schedule/speaker/185963
