@@ -2,14 +2,19 @@
 
 # Upcoming
 
-* https://dscamp.org/
-* https://streamnative.io/event/twitch-realtime-discussions-on-realtime-data-processing/
+# 2022 Stuff Coming
 
 # See
 
 https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqMjmtAIEJtg%3D%3D
 
 ![image](https://raw.githubusercontent.com/tspannhw/SpeakerProfile/main/2021/talks/microservicesbanner.jpeg)
+
+
+# December 3, 2021 - Data Science Online Camp
+
+* https://www.slideshare.net/bunkertor/data-science-online-camp-using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar
+* https://dscamp.org/
 
 # Nov 19, 2021 - Porto Tech Hub Conference
 
