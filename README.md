@@ -8,6 +8,8 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
+![tspannhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=tspannhw&include_all_commits=true&count_private=true&theme=cobalt)
+
 # Tim Spann - Streaming Engineer, Data Person, Programmer, Developer Advocate, Author
 
 Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   I did five talks at ApacheCon that one time.
