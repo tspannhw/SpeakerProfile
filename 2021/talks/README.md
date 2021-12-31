@@ -23,6 +23,7 @@ https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=eQ8Ks5qwTJqqM
 * https://github.com/tspannhw/pulsar-sentiment-function
 * https://github.com/tspannhw/FLiP-Meetup-Chat
 * https://github.com/tspannhw/FLiP-Mobile
+* https://www.youtube.com/watch?v=vDfKKNLypnA
 
 
 # Nov 15, 2021 - Automation + DevOps Summit 2021
