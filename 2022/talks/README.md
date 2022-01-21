@@ -6,20 +6,26 @@ Like last year, it seems like a good idea to track where I may be speaking or de
 If you want me to speak at your conference, take a look at my speaker profile and some of the talks I have developed.
 https://github.com/tspannhw/SpeakerProfile
 
-So far, these are coming up as of 04-December-2021:
+So far, these are coming up as of 21-January-2021:
 
 I will be speaking about StreamNative and Apache Pulsar coming up.
-
-![img](https://media-exp1.licdn.com/dms/image/sync/C5627AQFH3Jjd9y38CA/articleshare-shrink_800/0/1637719426197?e=1638975600&v=beta&t=xX5bWfaOQq3P9lyomNVmO0jN0oe3N8PSr01inPx8tPQ)
 
 Join my new meetup group:   
 https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 
-* 13-January-2022.  Meetup.  BuildPulsar End to End.  In Person.   TigerLabs, Princeton. https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/
+* 13-January-2022.  Meetup.  Build Pulsar End to End.  
+Virtual. https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/
 
 * 15-January-2022. Pulsar Summit Asia https://pulsar-summit.org/
 
 * 21-Jan-2022.  Friday 9:45 AM — 10 min.  DataMinutes. Apache Pulsar with MQTT for Edge Computing.  https://datagrillen.com/dataminutes/
+  
+  https://github.com/tspannhw/pulsar-adafruit-funhouse
+  https://github.com/tspannhw/SpeakerProfile/blob/main/2022/talks/DataMinutes%20%232%20-%20Apache%20Pulsar%20with%20MQTT%20For%20Edge%20Computing%20Lightning%20-%202022.pdf
+https://www.slideshare.net/bunkertor/data-minutes-2-apache-pulsar-with-mqtt-for-edge-computing-lightning-2022
+
+
+### Upcoming
 
 * 29-January-2021.  DevFest 2021- UK & Ireland - Google Developer Groups. https://www.devfest-uki.com/
 
