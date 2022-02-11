@@ -6,7 +6,11 @@ Like last year, it seems like a good idea to track where I may be speaking or de
 If you want me to speak at your conference, take a look at my speaker profile and some of the talks I have developed.
 https://github.com/tspannhw/SpeakerProfile
 
-So far, these are coming up as of 21-January-2021:
+## So far, these are coming :
+
+https://www.linkedin.com/pulse/2022-schedule-tim-spann/
+
+## There are completed
 
 I will be speaking about StreamNative and Apache Pulsar coming up.
 
@@ -38,14 +42,67 @@ I will walk through how to get started, some use cases and demos and answer ques
 * https://github.com/tspannhw/FLiPS-SparkOnPulsar
 * https://github.com/tspannhw/pulsar-energy-function
 
-### Upcoming
-
-
-
 * 02-February-2021. Developer Week. https://www.developerweek.com/conference/ LIVE in-person Talk - Oakland Convention Center Date: 2/2/2022 - Time: 4:00 PM - 4:50 PM.  Stage: CloudWorld Main Stage - Virtual Talk - Hopin - Date: 2/7/2022 - Time: 1:00 PM - 1:50 PM
 
 * 09-February-2022.   Scylla Summit 2022.   https://www.scylladb.com/scylla-summit-2022/
 
+
+
+Like last year, it seems like a good idea to track where I may be speaking or demoing.
+
+
+If you want me to speak at your conference, take a look at my speaker profile and some of the talks I have developed.
+
+So far, these are coming up as of 11-Feb-2022
+
+I will be speaking about StreamNative and Apache Pulsar coming up.
+
+Join my new meetup group:   
+
+11-February-2022.  Elastic Community Conference.  Virtual.
+
+
+10-March-2021. SQL Bits.    10:20 am EST.  Virtual.
+
+
+21/25-March-2022.   Python Web Conference.  Virtual.
+
+
+31-March-2022.   ML Conf NYC.   In Person!
+
+
+12 to 14-April-2022.  DevNexus.   In Person!  Look for me at the StreamNative booth.
+
+
+19-April-2022.   Philly ETE 2022.  Virtual.
+
+
+
+
+22-November-2022.   Big Data Conference EU.
+
+
+ Completed
+
+
+13-January-2022. Build an Event-Driven Architecture With Apache Pulsar. Virtual.
+
+15-January-2022. Pulsar Summit Asia
+
+
+21-Jan-2022.  Friday 9:45 AM — 10 min.  DataMinutes. Apache Pulsar with MQTT for Edge Computing
+
+29-January-2021. DevFest 2021- UK & Ireland - Google Developer Groups
+
+07-February-2022.  Developer Week Virtual.  Time: 1:00 PM - 1:50 PM
+
+
+
+
+10-February-2022.   Scylla Summit 2022.
+
+
+10-February-2022.  ADT/InfluxDB/Apache Pulsar Webinar.
 
 
 
