@@ -54,17 +54,19 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * **Dzone Articles:** https://dzone.com/users/297029/bunkertor.html
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
-* https://www.airflowdagdeveloper.com/ https://flipstack.dev/
+* https://www.airflowdagdeveloper.com/ https://flipstack.dev/ 
 * **My Meetups:** https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 
 ## Current Talk Topics
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/nifitopics.md
-* https://github.com/tspannhw/SpeakerProfile/blob/main/flanktopics.md
 * https://github.com/tspannhw/SpeakerProfile/blob/main/pulsar.md
 * https://github.com/tspannhw/SpeakerProfile/blob/main/fliptopics.md
 
+## Twitter Community:  Data In Motion
+
+* https://twitter.com/i/communities/1494809259661484045
 
 ## Some Topics In Development
 
