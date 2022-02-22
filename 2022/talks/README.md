@@ -33,7 +33,7 @@ Virtual. https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270
   https://github.com/tspannhw/SpeakerProfile/blob/main/2022/talks/DataMinutes%20%232%20-%20Apache%20Pulsar%20with%20MQTT%20For%20Edge%20Computing%20Lightning%20-%202022.pdf
 https://www.slideshare.net/bunkertor/data-minutes-2-apache-pulsar-with-mqtt-for-edge-computing-lightning-2022
 
-* 29-January-2021.  DevFest 2021- UK & Ireland - Google Developer Groups. https://www.devfest-uki.com/
+* 29-January-2022.  DevFest 2021/2- UK & Ireland - Google Developer Groups. https://www.devfest-uki.com/
 
 Devfest uk & ireland using apache nifi with apache pulsar for fast data on-ramp 2022
 
@@ -51,6 +51,8 @@ I will walk through how to get started, some use cases and demos and answer ques
 
 * 09-February-2022.   Scylla Summit 2022.   https://www.scylladb.com/scylla-summit-2022/
 
+11-February-2022.  Elastic Community Conference.  Virtual.
+
 
 
 Like last year, it seems like a good idea to track where I may be speaking or demoing.
@@ -58,13 +60,11 @@ Like last year, it seems like a good idea to track where I may be speaking or de
 
 If you want me to speak at your conference, take a look at my speaker profile and some of the talks I have developed.
 
-So far, these are coming up as of 11-Feb-2022
+So far, these are coming up as of 22-Feb-2022
 
 I will be speaking about StreamNative and Apache Pulsar coming up.
 
 Join my new meetup group:   
-
-11-February-2022.  Elastic Community Conference.  Virtual.
 
 
 10-March-2021. SQL Bits.    10:20 am EST.  Virtual.
