@@ -23,6 +23,8 @@ Virtual. https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270
 * 15-January-2022. Pulsar Summit Asia https://pulsar-summit.org/
 * https://www.youtube.com/watch?v=vV1E6KDF5-0
 * https://www.youtube.com/watch?v=zlSbJxrmgh0&feature=emb_imp_woyt
+* https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-251224832
+* https://www.slideshare.net/bunkertor/pulsar-summit-asia-2021-apache-pulsar-with-mqtt-for-edge-computing
 
 
 * 21-Jan-2022.  Friday 9:45 AM — 10 min.  DataMinutes. Apache Pulsar with MQTT for Edge Computing.  https://datagrillen.com/dataminutes/
