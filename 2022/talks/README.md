@@ -21,6 +21,9 @@ https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 Virtual. https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/
 
 * 15-January-2022. Pulsar Summit Asia https://pulsar-summit.org/
+* https://www.youtube.com/watch?v=vV1E6KDF5-0
+* https://www.youtube.com/watch?v=zlSbJxrmgh0&feature=emb_imp_woyt
+
 
 * 21-Jan-2022.  Friday 9:45 AM — 10 min.  DataMinutes. Apache Pulsar with MQTT for Edge Computing.  https://datagrillen.com/dataminutes/
   
