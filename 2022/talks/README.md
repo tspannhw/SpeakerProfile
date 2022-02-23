@@ -53,6 +53,8 @@ I will walk through how to get started, some use cases and demos and answer ques
 
 11-February-2022.  Elastic Community Conference.  Virtual.
 
+* https://www.youtube.com/watch?v=h_WfuyoGpaM&list=PL_mJOmq4zsHbigQnsjEcWed6N7Do5kss_&index=29
+* https://www.slideshare.net/bunkertor/ingesting-data-at-scale-into-elasticsearch-with-apache-pulsar
 
 
 Like last year, it seems like a good idea to track where I may be speaking or demoing.
