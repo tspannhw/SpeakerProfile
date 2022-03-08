@@ -61,6 +61,16 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * **My Meetups:** https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 
+## 2021 Talks
+
+https://github.com/tspannhw/SpeakerProfile/tree/main/2021/talks
+
+## 2022 Talks
+
+https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
+
+
+
 ## Current Talk Topics
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/nifitopics.md
