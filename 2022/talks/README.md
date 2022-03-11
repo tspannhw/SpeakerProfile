@@ -56,6 +56,11 @@ I will walk through how to get started, some use cases and demos and answer ques
 * https://www.youtube.com/watch?v=h_WfuyoGpaM&list=PL_mJOmq4zsHbigQnsjEcWed6N7Do5kss_&index=29
 * https://www.slideshare.net/bunkertor/ingesting-data-at-scale-into-elasticsearch-with-apache-pulsar
 
+10-March-2021. SQL Bits.    10:20 am EST.  Virtual.
+https://www.slideshare.net/bunkertor/sql-bits-apache-nifi-101-introduction-and-best-practices
+
+
+
 
 Like last year, it seems like a good idea to track where I may be speaking or demoing.
 
@@ -68,8 +73,6 @@ I will be speaking about StreamNative and Apache Pulsar coming up.
 
 Join my new meetup group:   
 
-
-10-March-2021. SQL Bits.    10:20 am EST.  Virtual.
 
 
 21/25-March-2022.   Python Web Conference.  Virtual.
