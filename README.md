@@ -6,7 +6,9 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 ![Badger2040](https://raw.githubusercontent.com/tspannhw/FLiP-Py-SmartBadges/main/timbadge.png)
 
-![Conferences](https://emamo.com/event/worldfestival-2021/s/pro-talk-continuous-sql-with-flink-WR115a/share/square/wide?dpr=1)
+Join me at my Meetup https://www.meetup.com/new-york-city-apache-pulsar-meetup/
+
+https://sessionize.com/tspann
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
