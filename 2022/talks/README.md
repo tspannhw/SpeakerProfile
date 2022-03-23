@@ -59,7 +59,7 @@ I will walk through how to get started, some use cases and demos and answer ques
 10-March-2021. SQL Bits.    10:20 am EST.  Virtual.
 https://www.slideshare.net/bunkertor/sql-bits-apache-nifi-101-introduction-and-best-practices
 
-
+https://arcade.sqlbits.com/session-details/?id=298240
 
 
 Like last year, it seems like a good idea to track where I may be speaking or demoing.
@@ -76,7 +76,7 @@ Join my new meetup group:
 
 
 21/25-March-2022.   Python Web Conference.  Virtual.
-
+Done and fun.
 
 31-March-2022.   ML Conf NYC.   In Person!
 
