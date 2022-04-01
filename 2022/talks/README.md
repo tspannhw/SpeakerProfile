@@ -78,14 +78,21 @@ Join my new meetup group:
 21/25-March-2022.   Python Web Conference.  Virtual.
 Done and fun.
 
+30-March-2022.  Bristol Meetup.  done
+
 31-March-2022.   ML Conf NYC.   In Person!
+done and fun
+https://www.slideshare.net/bunkertor/mlconf-2022-nyc-eventdriven-machine-learning-at-scalepdf
 
+12 to 14-April-2022.  DevNexus.   In Person!  Look for me at the StreamNative booth. and live talk
 
-12 to 14-April-2022.  DevNexus.   In Person!  Look for me at the StreamNative booth.
 
 
 19-April-2022.   Philly ETE 2022.  Virtual.
 
+16-May-2022.   KubeCon
+
+26-may-2022.   Spring IO.
 
 
 
@@ -93,6 +100,8 @@ Done and fun.
 
 
  Completed
+
+https://www.slideshare.net/streamnative/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-pulsar-summit-asia-2021
 
 
 13-January-2022. Build an Event-Driven Architecture With Apache Pulsar. Virtual.
