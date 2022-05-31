@@ -3,8 +3,13 @@
 
 Like last year, it seems like a good idea to track where I may be speaking or demoing.
 
+
 If you want me to speak at your conference, take a look at my speaker profile and some of the talks I have developed.
 https://github.com/tspannhw/SpeakerProfile
+
+#### check here for latest stuff
+
+https://www.linkedin.com/pulse/2022-schedule-tim-spann/
 
 ## So far, these are coming :
 
