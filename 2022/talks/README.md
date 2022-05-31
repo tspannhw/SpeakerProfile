@@ -11,6 +11,19 @@ https://github.com/tspannhw/SpeakerProfile
 
 https://www.linkedin.com/pulse/2022-schedule-tim-spann/
 
+#### Recent (DevNexus, KubeCon EU, DoK Day EU, Spring IO, Clickhouse, Philly ETE, Open Source Bristol, MLConf NYC 2022,
+   Python Web Conference)
+
+* https://www.linkedin.com/pulse/end-may-lets-get-summer-streaming-tim-spann/
+* https://www.slideshare.net/bunkertor/the-dream-stream-team-for-pulsar-and-spring
+* https://www.slideshare.net/bunkertor/serverless-event-streaming-applications-as-functionson-k8
+* https://www.slideshare.net/bunkertor/fast-data-onramp-with-apache-pulsar-on-k8pdf
+* https://www.slideshare.net/bunkertor/fast-streaming-into-clickhouse-with-apache-pulsar-pdf
+* https://www.slideshare.net/bunkertor/deep-dive-into-building-streaming-applications-with-apache-pulsar-1pdf
+* https://www.slideshare.net/bunkertor/designing-eventdriven-applications-with-apache-nifi-apache-flink-apache-spark-and-apache-pulsar
+* https://www.slideshare.net/bunkertor/mlconf-2022-nyc-eventdriven-machine-learning-at-scalepdf
+* https://www.slideshare.net/bunkertor/python-web-conference-2022-apache-pulsar-development-101-with-python-f-lippy
+
 ## So far, these are coming :
 
 https://www.linkedin.com/pulse/2022-schedule-tim-spann/
