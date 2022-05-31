@@ -12,7 +12,7 @@ https://github.com/tspannhw/SpeakerProfile
 https://www.linkedin.com/pulse/2022-schedule-tim-spann/
 
 #### Recent (DevNexus, KubeCon EU, DoK Day EU, Spring IO, Clickhouse, Philly ETE, Open Source Bristol, MLConf NYC 2022,
-   Python Web Conference)
+   Python Web Conference,  https://www.conf42.com/cloud2022, DataGrillen, Pulsar Summit Asia)
 
 * https://www.linkedin.com/pulse/end-may-lets-get-summer-streaming-tim-spann/
 * https://www.slideshare.net/bunkertor/the-dream-stream-team-for-pulsar-and-spring
@@ -23,6 +23,19 @@ https://www.linkedin.com/pulse/2022-schedule-tim-spann/
 * https://www.slideshare.net/bunkertor/designing-eventdriven-applications-with-apache-nifi-apache-flink-apache-spark-and-apache-pulsar
 * https://www.slideshare.net/bunkertor/mlconf-2022-nyc-eventdriven-machine-learning-at-scalepdf
 * https://www.slideshare.net/bunkertor/python-web-conference-2022-apache-pulsar-development-101-with-python-f-lippy
+* https://www.youtube.com/watch?v=RFdafFaLvBw&t=1305s
+* https://www.youtube.com/watch?v=yHiAX_fEwto&t=2s
+* https://www.youtube.com/watch?v=2_h4CqZ1YTU
+* https://www.youtube.com/watch?v=r58TpcgqhMY&t=75s
+* https://www.youtube.com/watch?v=Sg7I2GHYmtg
+* https://www.youtube.com/watch?v=sPGyl6XgGHw
+* https://www.youtube.com/watch?v=mg7RLwV3x1M&t=81s
+* https://www.youtube.com/watch?v=Cpytaehybq8
+* https://www.youtube.com/watch?v=ZjQmP17JgEs
+* https://www.youtube.com/watch?v=2BeAQNI8Pu0
+* https://www.youtube.com/watch?v=qHyzF2MTpLg
+* https://www.youtube.com/watch?v=vV1E6KDF5-0
+* https://www.youtube.com/watch?v=tTyqcIqCo2M&t=3s
 
 ## So far, these are coming :
 
