@@ -227,4 +227,115 @@ Tim Spann is a Developer Advocate @ Streamnative, a streaming developer advocate
 ![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/headshotTimSpann.png)
 
-2021 and beyond!
+2022 and beyond!
+
+### Summary
+
+June 15, 2022. Virtual.
+
+June 21, 2021 - Systems Masterclass - Half Day on Distributed Data Systems with Scylla, Pulsar, and AWS talks and group discussion. This is an interactive session with some interesting things in it.
+
+
+Distributed Data Systems Masterclass
+June 21 | 8AM - 12PM Paciﬁc Time
+
+Register Now!
+
+
+Learn how to build and manage enterprise-scale distributed data systems with the latest event streaming and distributed database technologies.
+
+In this free, interactive half-day masterclass, our experts walk you
+through how to build a resilient distributed system framework. We’ll
+cover how to configure an Apache Pulsar cluster with a ScyllaDB NoSQL
+database for a real-time event streaming application. At the end, you will have the opportunity to demonstrate what you learned and earn a certificate that shows your achievement.
+
+You will learn best practices on how to:
+- Configure event streaming for enterprise-scale applications
+- Connect a low-latency data store to the event streaming architecture
+- Use observability tools to monitor and optimize performance
+Plus earn a certificate and an exclusive swag pack!*
+
+*Must attend to be eligible. Shipping restrictions apply.
+
+Register Now.
+
+Organized by:  
+ScyllaDB, Inc. and StreamNative
+http://www.scylladb.com/
+https://streamnative.io/
+June 21, 2022 - Virtual Poland - Data Science Summit: Machine Learning Edition.
+
+July 25-27, 2022. Deep Dive into Building Streaming Applications with Apache Pulsar
+
+July 29-31, 2022 - ApacheCon Asia
+
+August 4, 2022 - 6pm BST. DSF Summer School with Pulsar.
+
+August 2022 - Pulsar Hackathon.
+August 16-17, 2022 - Real-Time Analytics Summit. San Francisco.
+
+August 18, 2022 - Pulsar Summit. San Francisco.
+
+Oct 3-6, 2022: Apache Con, New Orleans, LA.
+
+Oct 4-5, 2022: Current: Apache Kafka Summit. Austin, TX.
+
+Oct 25, 2022: KubeCon: Detroit
+22-November-2022. Big Data Conference EU.
+
+Completed
+
+13-January-2022. Build an Event-Driven Architecture With Apache Pulsar. Virtual.
+
+15-January-2022. Pulsar Summit Asia
+
+21-Jan-2022. Friday 9:45 AM — 10 min. DataMinutes. Apache Pulsar with MQTT for Edge Computing
+
+29-January-2021. DevFest 2021- UK & Ireland - Google Developer Groups
+
+
+07-February-2022. Developer Week Virtual. Time: 1:00 PM - 1:50 PM
+
+
+10-February-2022. Scylla Summit 2022.
+
+10-February-2022. ADT/InfluxDB/Apache Pulsar Webinar.
+
+
+11-February-2022. Elastic Community Conference. Virtual.
+
+10-March-2021. FLiP Stack Meetup. 6pm EST. Virtual.
+
+
+
+11-March-2021. SQL Bits.   7 am EST. Virtual.
+
+
+21/25-March-2022. Python Web Conference. Virtual.
+
+
+29-March-2022. Webinar. Virtual.
+
+30-March-2022. Open Source Meetup. Virtual.
+
+
+31-March-2022. ML Conf NYC. In Person!
+
+12 to 14-April-2022. DevNexus. In Person! Look for me at the StreamNative booth.
+
+
+20-April-2022. Philly ETE 2022. Virtual.
+
+28-April-2022. Conf42 Cloud Native. Virtual.
+
+16/20-May-2022. KubeCon | CloudNativeCon. Valencia, ES.
+16-May-2022. DoK (Data on Kubernetes). Serverless Event Streaming Applications as Functions on K8
+https://dok.community/dok-day-europe-2022-kubecon/
+17-May-2022. K8 Batch + HPC Day
+
+
+
+
+26/27-May-2022. Spring I/O. Barcelona, ES.
+
+
