@@ -24,6 +24,7 @@
 
 | Date | Event | Title | Slides | Recording | 
 | ---- | ----- | ----- | ------ | --------- | 
-| 2022-6-14 | Event 1 |[Title](slides) |  | [Recording](https://www.youtube.com/watch?v=) |
+| 2022-01-13 | Meetup NiFi | [https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/]() | | [Recording]() |
+| 2022-06-14 | Event 1 |[Title](slides) |  | [Recording](https://www.youtube.com/watch?v=) |
 
 
