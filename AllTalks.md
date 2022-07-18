@@ -27,6 +27,6 @@
 | 2022-01-13 | Meetup NiFi | [https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/]() | | [Recording]() |
 | 2022-06-14 | Event 1 |[Title](slides) |  | [Recording](https://www.youtube.com/watch?v=) |
 | 2022-01-15 | Pulsar Summit Asia | [EdgeAI](https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-251224832) | | [Recording](https://www.youtube.com/watch?v=vV1E6KDF5-0) |
-| 2022-01-15 | Pulsar Summit Asia | [MQTT](https://www.slideshare.net/bunkertor/pulsar-summit-asia-2021-apache-pulsar-with-mqtt-for-edge-computing) | | [Recording](https://www.youtube.com/watch?v=zlSbJxrmgh0&feature=emb_imp_woyt) |
+| 2022-01-15 | Pulsar Summit Asia | [MQTT](https://www.slideshare.net/bunkertor/pulsar-summit-asia-2021-apache-pulsar-with-mqtt-for-edge-computing) | | [Recording](https://www.youtube.com/watch?v=zlSbJxrmgh0) |
 
 
