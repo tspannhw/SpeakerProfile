@@ -48,6 +48,9 @@ I will be speaking about StreamNative and Apache Pulsar coming up.
 Join my new meetup group:   
 https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 
+* 27-Sept-2022.  JConfDev
+https://www.slideshare.net/bunkertor/jconfdev-2022-apache-pulsar-development-101-with-java
+
 * 13-January-2022.  Meetup.  Build Pulsar End to End.  
 Virtual. https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/
 
