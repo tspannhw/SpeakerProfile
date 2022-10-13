@@ -45,6 +45,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://medium.com/subscribe/@tspann
 * https://dashboard.twitch.tv/u/tspannstreamnative/home
 * https://www.devnetwork.com/about/advisory-boards/#last-name-s
+* https://stackoverflow.com/users/1404332/tim-spann
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
