@@ -48,6 +48,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://www.devnetwork.com/about/advisory-boards/#last-name-s
 * https://stackoverflow.com/users/1404332/tim-spann
 * https://springone.io/2022/speakers/timothy-spann
+* https://www.crossingthestreams.dev/
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
