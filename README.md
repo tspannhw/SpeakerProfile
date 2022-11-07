@@ -50,6 +50,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://springone.io/2022/speakers/timothy-spann
 * https://www.crossingthestreams.dev/
 * https://flightaware.com/adsb/stats/user/TimothySpann
+* https://data-folks.masto.host/
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
