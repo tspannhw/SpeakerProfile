@@ -165,7 +165,7 @@ https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
 
 ## :pencil: Presenter Bio
 
-Tim Spann is a Developer Advocate @ Streamnative, a streaming developer advocate, open source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.  I was a Principal DataFlow Field Engineer at Cloudera. I was a Senior Field Engineer at Pivotal, a Senior Solutions Architect at airsData and a Senior Solutions Engineer at Hortonworks.
+Tim Spann is a Developer Advocate @ StreamNative, a streaming developer advocate, open-source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.  I was a Principal DataFlow Field Engineer at Cloudera. I was a Senior Field Engineer at Pivotal, a Senior Solutions Architect at airsData and a Senior Solutions Engineer at Hortonworks.
 
 ## :love_letter: I am available for... 
 
@@ -351,3 +351,25 @@ https://dok.community/dok-day-europe-2022-kubecon/
 26/27-May-2022. Spring I/O. Barcelona, ES.
 
 
+
+**2022**
+
+🎯 2 DZone Top Expert Zones 
+
+📣 35 talks (including both virtual and in-person)
+
+🎙 3 podcasts
+
+📅 7meetups
+
+📼 4 webinars
+
+✍️ 37 articles and blog posts
+
+🗞 62 #newsletter written
+
+📚 80 code repositories 
+
+📄  45 slides from events
+
+🖥️ 20 demos
