@@ -134,7 +134,7 @@ AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink 
 
 ## 🛰️ Youtube Channel
 
-https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w
+https://www.youtube.com/@FLiP-Stack
 
 ## 📼 Videos of Mine
 
