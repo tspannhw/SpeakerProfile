@@ -80,15 +80,50 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * **My Meetups:** https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 
+## 2020 Report
+
+https://www.datainmotion.dev/2020/12/my-year-in-review-2020.html
+
+
 ## 2021 Talks
 
 https://github.com/tspannhw/SpeakerProfile/tree/main/2021/talks
+https://www.linkedin.com/pulse/2021-what-long-year-wrap-up-tim-spann/
 
 ## 2022 Talks
 
 https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
 
+## 2022 Report
 
+https://github.com/tspannhw/FLiPN-Pulsar-Report-2022
+https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
+
+2022
+
+🎯 2 DZone Top Expert Zones
+
+📣 35 conference talks (including both virtual and in-person)
+
+🎙 3 podcasts
+
+📅 7 meetups
+
+📼 4 webinars
+
+✍️ 39 articles and blog posts
+
+🗞 64 #newsletter weeklies written
+
+📚 85 code repositories built
+
+📄 45 slides created for events
+
+🖥️ 20 demos built, run and shown
+
+📺 50 videos from various streaming resources
+
+🏢 700 Meetup Members
 
 ## Current Talk Topics
 
