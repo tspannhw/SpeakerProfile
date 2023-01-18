@@ -2,8 +2,6 @@
 
 My speaker profile for events and conferences forked from codepo8/presenter-terms.
 
-![StreamNative](https://streamnative.io/assets/static/sn-logo-vertical-dark.c516648.a34f97839dee38e7499aa0c21d0b2255.png)
-
 ![Badger2040](https://raw.githubusercontent.com/tspannhw/FLiP-Py-SmartBadges/main/timbadge.png)
 
 Join me at my Meetup https://www.meetup.com/new-york-city-apache-pulsar-meetup/
