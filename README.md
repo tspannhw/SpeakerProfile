@@ -79,6 +79,8 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://www.airflowdagdeveloper.com/ https://flipstack.dev/ 
 * **My Meetups:** https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
+* **DevNetwork Advisory Board** Member
+* **DZone Top Experts** https://dzone.com/iot https://dzone.com/ai-ml
 
 ## 2020 Report
 
