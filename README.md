@@ -82,10 +82,38 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * **DevNetwork Advisory Board** Member
 * **DZone Top Experts** https://dzone.com/iot https://dzone.com/ai-ml
 
+## 2023 Upcoming Talks
+
+January 26, 2023: Conf42: DevOps 2023
+https://www.conf42.com/devops2023
+
+February 15, 2023: Scylla Summit
+https://www.scylladb.com/2022/10/25/scylladb-summit-2023-call-for-speakers/
+
+February 16, 2023:  Virtual Meetup with Rising Wave
+https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/291048765/
+
+February 21-22, 2023: Online Summit For Java Devs by <geekle>
+https://events.geekle.us/java23/
+
+February 28, 2023: Spring One:  Virtual
+https://tanzu.vmware.com/content/videos/springone-breakout-series
+
+March 3, 2023: Spring One: Virtual
+https://tanzu.vmware.com/content/videos/springone-breakout-series
+
+March 15, 2023:   Philly JUG Meetup in Philly
+https://www.meetup.com/phillyjug/
+
+March 30, 2023:   Virtual Meetup with Ververica
+https://www.meetup.com/new-york-apache-flink-meetup/
+
+April 4-6, 2023:  DevNexus in Atlanta
+https://devnexus.com/
+
 ## 2020 Report
 
 https://www.datainmotion.dev/2020/12/my-year-in-review-2020.html
-
 
 ## 2021 Talks
 
