@@ -102,6 +102,9 @@ https://tanzu.vmware.com/content/videos/springone-breakout-series
 March 3, 2023: Spring One: Virtual
 https://tanzu.vmware.com/content/videos/springone-breakout-series
 
+March 13-17, 2023:  Python Web Conference
+https://2023.pythonwebconf.com/
+  
 March 15, 2023:   Philly JUG Meetup in Philly
 https://www.meetup.com/phillyjug/
 
