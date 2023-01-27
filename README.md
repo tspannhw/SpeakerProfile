@@ -16,18 +16,23 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 
 
-# Tim Spann - Streaming Engineer, Data Person, Programmer, Developer Advocate, Author
+# Tim Spann - Streaming Engineer, Data Person, Programmer, Principal Developer Advocate, Author, DJ, Electronic Musician, Roller Derby Skater.
 
 Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   I did five talks at ApacheCon that one time.
 
-## Recent Talks
+## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023)
 
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2021/talks
+* https://dev.to/tspannhw/my-year-in-review-2020-3g91
+* https://www.datainmotion.dev/2020/01/year-and-decade-end-report-201.html
+* https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
+* https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541
+
 
 ## Bio - Timothy Spann - Developer Advocate @ Streamnative
 
-Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative Cloud, Apache Pulsar, Apache Kafka, Apache Flink, Flink SQL, Apache NiFi, Apache MXNet, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, machine learning, and deep learning. Tim has over a ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
+Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He works with Apache NiFi, Apache Pulsar, Apache Kafka, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over a ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
 
 * @tspann@fosstodon.org
 * https://hachyderm.io/@timspann
@@ -55,6 +60,7 @@ Tim Spann is a Developer Advocate for StreamNative.  He works with StreamNative 
 * https://www.crossingthestreams.dev/
 * https://flightaware.com/adsb/stats/user/TimothySpann
 * https://data-folks.masto.host/
+* https://eventible.com/learning/featuring-timothy-spann-developer-advocate-at-streamnative/
 
   @paasdev  linkedin.com/in/timothyspann/  streamnative.io
 
