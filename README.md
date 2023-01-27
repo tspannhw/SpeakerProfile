@@ -22,6 +22,7 @@ Hi, some call me Tim. I do a lot of great talks, demos, events and love interact
 
 ## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023)
 
+* https://github.com/tspannhw/SpeakerProfile/blob/main/2023/talks
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2021/talks
 * https://dev.to/tspannhw/my-year-in-review-2020-3g91
