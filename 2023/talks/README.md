@@ -6,6 +6,7 @@ https://www.linkedin.com/pulse/schedule-2023-tim-spann-/
 January 26, 2023: Conf42: DevOps 2023
 https://www.conf42.com/DevOps_2023_Tim_Spann_modern_data_streaming_apps
 https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python
+https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot
 
 February 16, 2023: Scylla Summit
 https://www.scylladb.com/scylladb-summit-2023/agenda/
@@ -23,7 +24,7 @@ https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming
 
 March 3, 2023: Spring One: Virtual
 https://tanzu.vmware.com/developer/tv/golden-path/
-https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot
+https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud
 
 March 13-17, 2023: Philly Web Conference
 https://2023.pythonwebconf.com/presentations/apache-pulsar-development-202-with-python
