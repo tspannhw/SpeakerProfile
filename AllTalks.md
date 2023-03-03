@@ -8,16 +8,28 @@
 
 # Table of Contents
 
-
+ - [Year of 2023](#2023) - total events X
  - [Year of 2022](#2022) - total events X
  - [Year of 2021](#2021) - total events X
  - [Year of 2020](#2020) - total events X
 
 # 2023
 
-March 9, 2023: Hazelcast Unconference: Virtual https://hazelcast.com/lp/unconference/
+![Total Events](https://img.shields.io/badge/total-30-blue?style=flat-square)  
+![Total Conferences](https://img.shields.io/badge/conferences-25-red?style=flat-square)  
+![Total Webinars](https://img.shields.io/badge/webinars-2-lightgrey?style=flat-square)  
 
-March 9, 2023: Conf42: Python: Virtual https://www.conf42.com/python2023
+
+
+
+| Date | Event | Title | Slides | Recording | 
+| ---- | ----- | ----- | ------ | --------- | 
+| 2023-03-09 | Hazelcast Unconference Virtual | [https://hazelcast.com/lp/unconference/](https://hazelcast.com/lp/unconference/) |None| [Recording]() |
+| 2023-03-09 | Conf42: Python: Virtual |[https://www.conf42.comtcon/python2023](https://www.conf42.comtcon/python2023) |  | [Recording](https://www.youtube.com/watch?v=) |
+| 2022-01-15 | Pulsar Summit Asia | [EdgeAI](https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-251224832) | | [Recording](https://www.youtube.com/watch?v=vV1E6KDF5-0) |
+| 2022-01-15 | Pulsar Summit Asia | [MQTT](https://www.slideshare.net/bunkertor/pulsar-summit-asia-2021-apache-pulsar-with-mqtt-for-edge-computing) | | [Recording](https://www.youtube.com/watch?v=zlSbJxrmgh0) |
+
+
 
 https://www.linkedin.com/posts/conf42_conf42-conference-online-activity-7033769299492122624-gsir/?utm_source=share&utm_medium=member_ios
 
