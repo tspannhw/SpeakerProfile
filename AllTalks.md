@@ -105,27 +105,7 @@ https://dok.community/dok-day-europe-2022-kubecon/
 
 June 15, 2022. Virtual.
 
-June 21, 2021 - Systems Masterclass - Half Day on Distributed Data Systems with Scylla, Pulsar, and AWS talks and group discussion. This is an interactive session with some interesting things in it. NOW!!!!!
-
-Distributed Data Systems Masterclass June 21 | 8AM - 12PM Paciﬁc Time
-
-Register Now!
-
-Learn how to build and manage enterprise-scale distributed data systems with the latest event streaming and distributed database technologies.
-
-In this free, interactive half-day masterclass, our experts walk you through how to build a resilient distributed system framework. We’ll cover how to configure an Apache Pulsar cluster with a ScyllaDB NoSQL database for a real-time event streaming application. At the end, you will have the opportunity to demonstrate what you learned and earn a certificate that shows your achievement.
-
-You will learn best practices on how to:
-
-Configure event streaming for enterprise-scale applications
-Connect a low-latency data store to the event streaming architecture
-Use observability tools to monitor and optimize performance Plus earn a certificate and an exclusive swag pack!*
-*Must attend to be eligible. Shipping restrictions apply.
-
-Register Now.
-
-Organized by:
-ScyllaDB, Inc. and StreamNative http://www.scylladb.com/ https://streamnative.io/ June 21, 2022 - Virtual Poland - Data Science Summit: Machine Learning Edition.
+June 21, 2021 - Systems Masterclass - Pulsar / Scylla
 
 July 25, 2022. Deep Dive into Building Streaming Applications with Apache Pulsar
 
@@ -134,8 +114,6 @@ July 26, 2022 - Meetup
 July 29-31, 2022 - ApacheCon Asia
 
 August 4, 2022 - 6pm BST / 1pm EST. DSF Summer School with Pulsar.
-
-Join me this week in San Francisco!!!
 
 August 18, 2022 - Pulsar Summit. San Francisco.
 
