@@ -24,6 +24,7 @@
 
 | Date | Event | Title | Slides | Recording | 
 | ---- | ----- | ----- | ------ | --------- | 
+| 2023-02-16 | Spring One VMware Virtual |Let's Keep it simple & streaming|√|[https://tanzu.vmware.com/developer/tv/golden-path/6/](https://tanzu.vmware.com/developer/tv/golden-path/6/)|
 | 2023-03-09 | Hazelcast Unconference Virtual | [https://hazelcast.com/lp/unconference/](https://hazelcast.com/lp/unconference/) |None| [Recording]() |
 | 2023-03-09 | Conf42: Python: Virtual |[https://www.conf42.comtcon/python2023](https://www.conf42.comtcon/python2023) |  | [Recording](https://www.youtube.com/watch?v=) |
 | 2022-01-15 | Pulsar Summit Asia | [EdgeAI](https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-251224832) | | [Recording](https://www.youtube.com/watch?v=vV1E6KDF5-0) |
