@@ -24,7 +24,7 @@
 
 | Date | Event | Title | Slides | Recording | 
 | ---- | ----- | ----- | ------ | --------- | 
-| 2023-01-26 | Conf42 DevOps Virtual|Why Spring Belongs in your data stream|[https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud](https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud)|[https://www.conf42.com/devops2023](https://www.conf42.com/devops2023)|
+| 2023-01-26 | Conf42 DevOps Virtual|Building Modern Data Streaming Apps|[https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python](https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python)|[https://www.conf42.com/devops2023](https://www.conf42.com/devops2023)|
 | 2023-02-16 | Scylla Summit |Sink Your Teeth into Streaming at Any Scale|[https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale](https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale)|video|
 | 2023-02-16 | Spring One VMware Virtual |Let's Keep it simple & streaming|[https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming](https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming)|[https://tanzu.vmware.com/developer/tv/golden-path/6/](https://tanzu.vmware.com/developer/tv/golden-path/6/)|
 | 2023-02-21 | Online Summit for Java Devs | slides | [https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot-256064590](https://www.slideshare.net/bunkertor/living-the-stream-dream-with-pulsar-and-spring-boot-256064590)|videos|
