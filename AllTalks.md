@@ -141,6 +141,9 @@ Nov 10-11, 2022: AllDayDevops
 
 19-20-November-2022. Pulsar Summit Asia.
 
+Nov 15, 2022 - OSA Con
+https://www.slideshare.net/bunkertor/osa-con-2022-streaming-data-made-easy
+
 22-November-2022. Big Data Conference EU.
 https://www.slideshare.net/bunkertor/bigdata-2022-flip-into-pulsar-apps
 
