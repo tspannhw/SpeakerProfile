@@ -59,6 +59,11 @@
 | 2022-01-15 | Pulsar Summit Asia | [EdgeAI](https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-251224832) | | [Recording](https://www.youtube.com/watch?v=vV1E6KDF5-0) |
 | 2022-01-15 | Pulsar Summit Asia | [MQTT](https://www.slideshare.net/bunkertor/pulsar-summit-asia-2021-apache-pulsar-with-mqtt-for-edge-computing) | | [Recording](https://www.youtube.com/watch?v=zlSbJxrmgh0) |
 
+
+
+
+
+
 13-January-2022. Build an Event-Driven Architecture With Apache Pulsar. Virtual.
 
 15-January-2022. Pulsar Summit Asia
@@ -71,6 +76,8 @@
 
 10-February-2022. Scylla Summit 2022.
 
+Feb 10, 2022 Virtual Influx with Pulsar https://adtmag.com/webcasts/2021/12/influxdata-february-10.aspx
+
 10-February-2022. ADT/InfluxDB/Apache Pulsar Webinar.
 
 11-February-2022. Elastic Community Conference. Virtual.
@@ -82,6 +89,7 @@
 21/25-March-2022. Python Web Conference. Virtual.
 
 29-March-2022. Webinar. Virtual.
+Mar 29, 2022 Virtual Event Sourcing https://streamnative.io/event/webinar-how-to-build-an-event-sourcing-app-with-pulsar
 
 30-March-2022. Open Source Meetup. Virtual.
 
@@ -106,6 +114,8 @@ https://dok.community/dok-day-europe-2022-kubecon/
 June 15, 2022. Virtual.
 
 June 21, 2021 - Systems Masterclass - Pulsar / Scylla
+June 21, 2022 Virtual Scylla Masterclass https://hopin.com/events/distributed-data-systems-masterclass?utm_source=streamnative&utm_campaign=email-invite
+
 
 July 25, 2022. Deep Dive into Building Streaming Applications with Apache Pulsar
 
@@ -127,15 +137,23 @@ Oct 3-6, 2022: Apache Con, New Orleans, LA.
 
 Oct 4-5, 2022: Current: Apache Kafka Summit. Austin, TX.
 
+Oct 20, 2022: Conf42: KubeNative. Virtual
+https://www.youtube.com/watch?v=346PAVtrJNE&list=PLIuxSyKxlQrCXmMskCiu1Pfv2NDKvM6qd&index=5&t=24s&ab_channel=Conf42
+https://www.slideshare.net/bunkertor/conf42kubenative-building-realtime-pulsar-apps-on-k8
+
 Oct 24, 2022: DoK Days: Architecting Your First Event Driven Serverless Streaming Applications on K8
+https://www.slideshare.net/bunkertor/dokdayna2022-architecting-your-first-event-driven-serverless-streaming-applications-on-k8
 
 Oct 25, 2022: KubeCon: Detroit
 
 Nov 3, 2022: Aerospike Roadshow NYC
+https://www.slideshare.net/bunkertor/aerospikeroadshow-apache-pulsar-unifies-streaming-and-messaging-for-realtime-data
 
 Nov 3, 2022: AI Dev World
+https://www.slideshare.net/bunkertor/ai-dev-world-2022-build-ml-enhanced-event-streaming
 
 Nov 10-11, 2022: AllDayDevops
+https://www.slideshare.net/bunkertor/all-day-devops-flip-stack-for-cloud-data-lakes
 
 15-18-November-2022. PASS Data Community Conference. Seattle.
 
