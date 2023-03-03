@@ -24,29 +24,19 @@
 
 | Date | Event | Title | Slides | Recording | 
 | ---- | ----- | ----- | ------ | --------- | 
+| 2023-01-26 | Conf42 DevOps Virtual|Why Spring Belongs in your data stream|[https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud](https://www.slideshare.net/bunkertor/why-spring-belongs-in-your-data-stream-from-edge-to-multicloud)|[https://www.conf42.com/devops2023](https://www.conf42.com/devops2023)|
 | 2023-02-16 | Spring One VMware Virtual |Let's Keep it simple & streaming|[https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming](https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming)|[https://tanzu.vmware.com/developer/tv/golden-path/6/](https://tanzu.vmware.com/developer/tv/golden-path/6/)|
 | 2023-03-09 | Hazelcast Unconference Virtual | [https://hazelcast.com/lp/unconference/](https://hazelcast.com/lp/unconference/) |None| [Recording]() |
 | 2023-03-09 | Conf42: Python: Virtual |[https://www.conf42.comtcon/python2023](https://www.conf42.comtcon/python2023) |  | [Recording](https://www.youtube.com/watch?v=) |
-| 2022-01-15 | Pulsar Summit Asia | [EdgeAI](https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-251224832) | | [Recording](https://www.youtube.com/watch?v=vV1E6KDF5-0) |
-| 2022-01-15 | Pulsar Summit Asia | [MQTT](https://www.slideshare.net/bunkertor/pulsar-summit-asia-2021-apache-pulsar-with-mqtt-for-edge-computing) | | [Recording](https://www.youtube.com/watch?v=zlSbJxrmgh0) |
+| 2023-03-15 | Philly Jug Meetup: Philly | Apache Pulsar 101 with Java | slides | [https://www.meetup.com/phillyjug/events/291103971/](https://www.meetup.com/phillyjug/events/291103971/) |
+| 2023-03-16 | Python Web Conference: Virtual | Python | slides |  [https://2023.pythonwebconf.com/](https://2023.pythonwebconf.com/) |
+| 2023-03-17 | TCF Pro: Trenton, NJ | Streaming | slides | [https://princetonacm.acm.org/tcfpro/profiles/timothy-spann.html](https://princetonacm.acm.org/tcfpro/profiles/timothy-spann.html) |
+| 2023-03-30 | Pulsar Meetup - Flink: Virtual | Pulsar Flink | slides | [https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/290459862/](https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/290459862/) |
+| 2023-04-04 | DevNexus: Atlanta, GA| Streaming | slides | [https://devnexus.com/](https://devnexus.com/) |
+| 2023-04-24 | Real-Time Analytics Summit: San Francisco, CA | slides |  [https://rtasummit.com/](https://rtasummit.com/) |
+| 2023-05-09 | Garden State Java User Group. Madison, NJ | slides | [https://gsjug.org/](https://gsjug.org/) |
 
 
-
-https://www.linkedin.com/posts/conf42_conf42-conference-online-activity-7033769299492122624-gsir/?utm_source=share&utm_medium=member_ios
-
-March 15, 2023: Philly JUG Meetup: Philly [https://www.meetup.com/phillyjug/
-
-March 16, 2023: Python Web Conference: Virtual https://2023.pythonwebconf.com/
-
-March 17, 2023: TCF Pro: Trenton, NJ https://princetonacm.acm.org/tcfpro/profiles/timothy-spann.html
-
-March 30, 2023: Pulsar Meetup - Flink: Virtual https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/290459862/
-
-April 4-6, 2023: DevNexus: Atlanta, GA https://devnexus.com/
-
-April 24-26, 2023: Real-Time Analytics Summit: San Francisco, CA https://rtasummit.com/
-
-May 9, 2023: Garden State Java User Group. In-Person. New Jersey https://gsjug.org/
 
 # 2022
 
