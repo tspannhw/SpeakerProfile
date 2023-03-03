@@ -13,6 +13,28 @@
  - [Year of 2021](#2021) - total events X
  - [Year of 2020](#2020) - total events X
 
+# 2023
+
+March 9, 2023: Hazelcast Unconference: Virtual https://hazelcast.com/lp/unconference/
+
+March 9, 2023: Conf42: Python: Virtual https://www.conf42.com/python2023
+
+https://www.linkedin.com/posts/conf42_conf42-conference-online-activity-7033769299492122624-gsir/?utm_source=share&utm_medium=member_ios
+
+March 15, 2023: Philly JUG Meetup: Philly [https://www.meetup.com/phillyjug/
+
+March 16, 2023: Python Web Conference: Virtual https://2023.pythonwebconf.com/
+
+March 17, 2023: TCF Pro: Trenton, NJ https://princetonacm.acm.org/tcfpro/profiles/timothy-spann.html
+
+March 30, 2023: Pulsar Meetup - Flink: Virtual https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/290459862/
+
+April 4-6, 2023: DevNexus: Atlanta, GA https://devnexus.com/
+
+April 24-26, 2023: Real-Time Analytics Summit: San Francisco, CA https://rtasummit.com/
+
+May 9, 2023: Garden State Java User Group. In-Person. New Jersey https://gsjug.org/
+
 # 2022
 
 
