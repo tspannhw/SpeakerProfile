@@ -54,35 +54,16 @@
 
 | Date | Event | Title | Slides | Recording | 
 | ---- | ----- | ----- | ------ | --------- | 
-| 2022-01-13 | Meetup NiFi | [https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/]() | | [Recording]() |
-| 2022-06-14 | Event 1 |[Title](slides) |  | [Recording](https://www.youtube.com/watch?v=) |
+| 2022-01-13 | Meetup NiFi Build an Event-Driven Architecture With Apache Pulsar. Virtual. | [https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/282270385/]() | | [Recording]() |
 | 2022-01-15 | Pulsar Summit Asia | [EdgeAI](https://www.slideshare.net/bunkertor/using-the-flipn-stack-for-edge-ai-flink-nifi-pulsar-251224832) | | [Recording](https://www.youtube.com/watch?v=vV1E6KDF5-0) |
 | 2022-01-15 | Pulsar Summit Asia | [MQTT](https://www.slideshare.net/bunkertor/pulsar-summit-asia-2021-apache-pulsar-with-mqtt-for-edge-computing) | | [Recording](https://www.youtube.com/watch?v=zlSbJxrmgh0) |
-
-
-
-
-
-
-13-January-2022. Build an Event-Driven Architecture With Apache Pulsar. Virtual.
-
-15-January-2022. Pulsar Summit Asia
-
-21-Jan-2022. Friday 9:45 AM — 10 min. DataMinutes. Apache Pulsar with MQTT for Edge Computing
-
-29-January-2021. DevFest 2021- UK & Ireland - Google Developer Groups
-
-07-February-2022. Developer Week Virtual. Time: 1:00 PM - 1:50 PM
-
-10-February-2022. Scylla Summit 2022.
-
-Feb 10, 2022 Virtual Influx with Pulsar https://adtmag.com/webcasts/2021/12/influxdata-february-10.aspx
-
-10-February-2022. ADT/InfluxDB/Apache Pulsar Webinar.
-
-11-February-2022. Elastic Community Conference. Virtual.
-
-10-March-2021. FLiP Stack Meetup. 6pm EST. Virtual.
+| 2022-01-21 | Data Minutes UK | Apache Pulsar with MQTT for Edge Computing|slides|video|
+| 29-January-2021. DevFest 2021- UK & Ireland - Google Developer Groups
+| 07-February-2022. Developer Week Virtual. Time: 1:00 PM - 1:50 PM
+|10-February-2022. Scylla Summit 2022.
+|Feb 10, 2022 Virtual Influx with Pulsar https://adtmag.com/webcasts/2021/12/influxdata-february-10.aspx
+|11-February-2022. Elastic Community Conference. Virtual.
+|10-March-2021. FLiP Stack Meetup. 6pm EST. Virtual.
 
 11-March-2021. SQL Bits. 7 am EST. Virtual.
 
@@ -129,13 +110,21 @@ August 18, 2022 - Pulsar Summit. San Francisco.
 
 Sept 8, 2022: Philadelphia: PHLAI - Comcast Labs Connect
 
+Sept 16: OSS Summit
+https://www.slideshare.net/bunkertor/oss-eu-deep-dive-into-building-streaming-applications-with-apache-pulsar
+
 Sept 26-28: Chicago: JDev
+https://www.slideshare.net/bunkertor/jconfdev-2022-apache-pulsar-development-101-with-java
 
 Oct 3, 2022: Aerospike / Pulsar Meetup. Austin, TX.
+https://www.slideshare.net/bunkertor/meetup-unified-messaging-and-streaming
 
 Oct 3-6, 2022: Apache Con, New Orleans, LA.
+https://www.slideshare.net/bunkertor/apachecon2022deep-dive-into-building-streaming-applications-with-apache-pulsar
+https://www.slideshare.net/bunkertor/apachecon2022citizen-streaming-engineer-a-how-to
 
 Oct 4-5, 2022: Current: Apache Kafka Summit. Austin, TX.
+https://www.slideshare.net/bunkertor/current22-lets-monitor-the-conditions-at-the-conference
 
 Oct 20, 2022: Conf42: KubeNative. Virtual
 https://www.youtube.com/watch?v=346PAVtrJNE&list=PLIuxSyKxlQrCXmMskCiu1Pfv2NDKvM6qd&index=5&t=24s&ab_channel=Conf42
