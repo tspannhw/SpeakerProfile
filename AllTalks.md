@@ -24,6 +24,7 @@
 
 | Date | Event | Title | Slides | Recording | 
 | ---- | ----- | ----- | ------ | --------- | 
+| 2023-01-13 | DS Camp |Apache Pulsar for ML|[slides](https://www.slideshare.net/Edunomica/timothy-spann-apache-pulsar-for-ml)|[https://www.youtube.com/watch?v=4Fh48IL3rUA&ab_channel=Edunomica](https://www.youtube.com/watch?v=4Fh48IL3rUA&ab_channel=Edunomica)|
 | 2023-01-26 | Conf42 DevOps Virtual|Building Modern Data Streaming Apps|[https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python](https://www.slideshare.net/bunkertor/building-modern-data-streaming-apps-with-python)|[https://www.conf42.com/devops2023](https://www.conf42.com/devops2023)|
 | 2023-02-16 | Scylla Summit |Sink Your Teeth into Streaming at Any Scale|[https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale](https://www.slideshare.net/bunkertor/sink-your-teeth-into-streaming-at-any-scale)|video|
 | 2023-02-16 | Spring One VMware Virtual |Let's Keep it simple & streaming|[https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming](https://www.slideshare.net/bunkertor/lets-keep-it-simple-and-streaming)|[https://tanzu.vmware.com/developer/tv/golden-path/6/](https://tanzu.vmware.com/developer/tv/golden-path/6/)|
@@ -163,8 +164,10 @@ Nov 10-11, 2022: AllDayDevops
 19-20-November-2022. Pulsar Summit Asia.
 
 22-November-2022. Big Data Conference EU.
+https://www.slideshare.net/bunkertor/bigdata-2022-flip-into-pulsar-apps
 
 Nov 29, 2022: Machine Intelligence Guild Speaker of the Month (Virtual)
+https://www.slideshare.net/bunkertor/machine-intelligence-guild-build-ml-enhanced-event-streaming-applications-with-java-and-python-microservices
 
 Dec 14 NYC Meetup with Pinot https://www.meetup.com/new-york-city-apache-pulsar-meetup/events/289817171/
 https://www.slideshare.net/bunkertor/nyc-dec-2022-meetup-building-realtime-requires-a-team
