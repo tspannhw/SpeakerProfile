@@ -7,7 +7,7 @@ Join me at my Meetup
 
 https://www.meetup.com/futureofdata-princeton/
 
-https://sessionize.com/tspann
+
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
@@ -16,10 +16,6 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
 https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 
-
-# Tim Spann - Streaming Engineer, Data Person, Programmer, Principal Developer Advocate, Author, DJ, Electronic Musician, Roller Derby Skater.
-
-Hi, some call me Tim. I do a lot of great talks, demos, events and love interacting with the community on various topics.   I did five talks at ApacheCon that one time.
 
 ## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023)
 
@@ -34,7 +30,7 @@ Hi, some call me Tim. I do a lot of great talks, demos, events and love interact
 
 ## Bio - Timothy Spann - Principal Developer Advocate @ Cloudera
 
-Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He works with Apache NiFi, Apache Pulsar, Apache Kafka, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
+Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
 
 * @tspann@fosstodon.org
 * https://hachyderm.io/@timspann
@@ -71,9 +67,9 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He 
 ## :wave: Personal information
 
 * **Name:** Timothy Spann
-* **Company:** StreamNative
-* **Former Companies:** Cloudera, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group.
-* **Job Title:** Developer Advocate
+* **Company:** Cloudera
+* **Former Companies:** StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group.
+* **Job Title:** Principal Developer Advocate
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
 * **LinkedIn:** https://www.linkedin.com/in/timothyspann/
 * **Blog/Homepage:** https://datainmotion.dev
@@ -91,6 +87,19 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He 
 * **DZone Top Experts** https://dzone.com/iot https://dzone.com/ai-ml
 
 ## 2023 Upcoming Talks
+
+March 30, 2023:   Virtual Meetup with Ververica
+https://www.meetup.com/new-york-apache-flink-meetup/
+
+April 4-6, 2023:  DevNexus in Atlanta
+https://devnexus.com/
+
+April 24-26, 2023:  Real Time Analytics Summit
+
+April 25, 2023:  Future of Data Meetup SF
+
+
+## 2023 Past Talks
 
 January 26, 2023: Conf42: DevOps 2023
 https://www.conf42.com/devops2023
@@ -116,11 +125,7 @@ https://2023.pythonwebconf.com/
 March 15, 2023:   Philly JUG Meetup in Philly
 https://www.meetup.com/phillyjug/
 
-March 30, 2023:   Virtual Meetup with Ververica
-https://www.meetup.com/new-york-apache-flink-meetup/
 
-April 4-6, 2023:  DevNexus in Atlanta
-https://devnexus.com/
 
 ## 2020 Report
 
@@ -237,10 +242,6 @@ https://www.youtube.com/@FLiP-Stack
 * https://www.youtube.com/watch?v=BA_B6MKrxig&list=PLlmpIaH7URGXYTdiHhlYbSkAO_B_RDDn0&index=21
 
 
-## :pencil: Presenter Bio
-
-Tim Spann is a Developer Advocate @ StreamNative, a streaming developer advocate, open-source advocate, a blogger at DZone and an experienced data engineer with 15 years of experience. He runs the Future of Data Princeton meetup as well as other events. He has spoken at Philly Open Source, ApacheCon in Montreal, Strata NYC, Oracle Code NYC, IoT Fusion in Philly, meetups in Princeton, NYC, Philly, Berlin and Prague, DataWorks Summits in San Jose, Barcelona, D.C., Berlin and Sydney.   I spoke at Nethope Globa Summit twice and would love to assist in other charitable data events and activities.  I was a Principal DataFlow Field Engineer at Cloudera. I was a Senior Field Engineer at Pivotal, a Senior Solutions Architect at airsData and a Senior Solutions Engineer at Hortonworks.
-
 ## :love_letter: I am available for... 
 
 - [x] Keynotes 
@@ -269,8 +270,9 @@ Tim Spann is a Developer Advocate @ StreamNative, a streaming developer advocate
 ## :gift: Subjects I cover... 
 
 - [x] Apache NiFi
-- [x] Apache Pulsar
+- [x] Apache Kafka
 - [x] Apache Flink
+- [x] Apache Iceberg
 - [x] IoT/IIoT
 - [x] Real-Time Streaming / Event Processing
 - [x] Edge Computing / Edge AI
@@ -313,61 +315,9 @@ Tim Spann is a Developer Advocate @ StreamNative, a streaming developer advocate
 ![Tim](https://dzone.com/storage/attachments/9160718-adlpic.png)
 ![Tim](https://raw.githubusercontent.com/tspannhw/tspannhw/main/headshots/headshotTimSpann.png)
 
-2022 and beyond!
+2023 and beyond!
 
-### Summary
-
-June 15, 2022. Virtual.
-
-June 21, 2021 - Systems Masterclass - Half Day on Distributed Data Systems with Scylla, Pulsar, and AWS talks and group discussion. This is an interactive session with some interesting things in it.
-
-
-Distributed Data Systems Masterclass
-June 21 | 8AM - 12PM Paciﬁc Time
-
-Register Now!
-
-
-Learn how to build and manage enterprise-scale distributed data systems with the latest event streaming and distributed database technologies.
-
-In this free, interactive half-day masterclass, our experts walk you
-through how to build a resilient distributed system framework. We’ll
-cover how to configure an Apache Pulsar cluster with a ScyllaDB NoSQL
-database for a real-time event streaming application. At the end, you will have the opportunity to demonstrate what you learned and earn a certificate that shows your achievement.
-
-You will learn best practices on how to:
-- Configure event streaming for enterprise-scale applications
-- Connect a low-latency data store to the event streaming architecture
-- Use observability tools to monitor and optimize performance
-Plus earn a certificate and an exclusive swag pack!*
-
-*Must attend to be eligible. Shipping restrictions apply.
-
-Register Now.
-
-Organized by:  
-ScyllaDB, Inc. and StreamNative
-http://www.scylladb.com/
-https://streamnative.io/
-June 21, 2022 - Virtual Poland - Data Science Summit: Machine Learning Edition.
-
-July 25-27, 2022. Deep Dive into Building Streaming Applications with Apache Pulsar
-
-July 29-31, 2022 - ApacheCon Asia
-
-August 4, 2022 - 6pm BST. DSF Summer School with Pulsar.
-
-August 2022 - Pulsar Hackathon.
-August 16-17, 2022 - Real-Time Analytics Summit. San Francisco.
-
-August 18, 2022 - Pulsar Summit. San Francisco.
-
-Oct 3-6, 2022: Apache Con, New Orleans, LA.
-
-Oct 4-5, 2022: Current: Apache Kafka Summit. Austin, TX.
-
-Oct 25, 2022: KubeCon: Detroit
-22-November-2022. Big Data Conference EU.
+### Summary Recently
 
 Completed
 
@@ -420,10 +370,59 @@ https://dok.community/dok-day-europe-2022-kubecon/
 17-May-2022. K8 Batch + HPC Day
 
 
-
-
 26/27-May-2022. Spring I/O. Barcelona, ES.
 
+  June 15, 2022. Virtual.
+
+June 21, 2021 - Systems Masterclass - Half Day on Distributed Data Systems with Scylla, Pulsar, and AWS talks and group discussion. This is an interactive session with some interesting things in it.
+
+
+Distributed Data Systems Masterclass
+June 21 | 8AM - 12PM Paciﬁc Time
+
+Register Now!
+
+
+Learn how to build and manage enterprise-scale distributed data systems with the latest event streaming and distributed database technologies.
+
+In this free, interactive half-day masterclass, our experts walk you
+through how to build a resilient distributed system framework. We’ll
+cover how to configure an Apache Pulsar cluster with a ScyllaDB NoSQL
+database for a real-time event streaming application. At the end, you will have the opportunity to demonstrate what you learned and earn a certificate that shows your achievement.
+
+You will learn best practices on how to:
+- Configure event streaming for enterprise-scale applications
+- Connect a low-latency data store to the event streaming architecture
+- Use observability tools to monitor and optimize performance
+Plus earn a certificate and an exclusive swag pack!*
+
+*Must attend to be eligible. Shipping restrictions apply.
+
+Register Now.
+
+Organized by:  
+ScyllaDB, Inc. and StreamNative
+http://www.scylladb.com/
+https://streamnative.io/
+June 21, 2022 - Virtual Poland - Data Science Summit: Machine Learning Edition.
+
+July 25-27, 2022. Deep Dive into Building Streaming Applications with Apache Pulsar
+
+July 29-31, 2022 - ApacheCon Asia
+
+August 4, 2022 - 6pm BST. DSF Summer School with Pulsar.
+
+August 2022 - Pulsar Hackathon.
+August 16-17, 2022 - Real-Time Analytics Summit. San Francisco.
+
+August 18, 2022 - Pulsar Summit. San Francisco.
+
+Oct 3-6, 2022: Apache Con, New Orleans, LA.
+
+Oct 4-5, 2022: Current: Apache Kafka Summit. Austin, TX.
+
+Oct 25, 2022: KubeCon: Detroit
+22-November-2022. Big Data Conference EU.
 
 
 **2022**
