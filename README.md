@@ -60,9 +60,7 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He 
 * https://data-folks.masto.host/
 * https://eventible.com/learning/featuring-timothy-spann-developer-advocate-at-streamnative/
 
-  @paasdev  linkedin.com/in/timothyspann/  streamnative.io
-
-![InfluxDBDay](https://pbs.twimg.com/media/E-70GO9X0AUd60_?format=jpg&name=small)
+  @paasdev  linkedin.com/in/timothyspann/  cloudera.com
 
 ## :wave: Personal information
 
