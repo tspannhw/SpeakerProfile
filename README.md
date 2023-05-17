@@ -316,7 +316,148 @@ https://www.youtube.com/@FLiP-Stack
 2023 and beyond!
 
 ### Summary Recently
+[https://www.linkedin.com/pulse/schedule-2023-tim-spann-/](https://www.linkedin.com/pulse/schedule-2023-tim-spann-/)
+  
+May 16-18, 2023: IBM. Data in Motion. Raleigh, NC.
 
+May 23, 2023: Pulsar Summit Europe. Virtual
+
+
+May 24-25, 2023: Big Data Fest. Virtual.
+
+June 8, 2023: Budapest Data+ML 2023
+
+
+June 14, 2023: Cloudera Now Virtual.
+
+
+June 26-28, 2023: NLIT Summit. Milwaukee.
+
+June 28, 2023: NiFi Meetup. Milwaukee and Hybrid.
+
+
+Completed
+February 16, 2023: Scylla Summit: Virtual
+
+
+January 26, 2023: Conf42: DevOps 2023
+
+
+February 17, 2023: Spring One:  Virtual
+
+February 21-22, 2023: Online Summit For Java Devs by <geekle>: Virtual
+
+
+
+February 23, 2023: Rising Wave + Pulsar Meetup: Virtual
+
+
+March 3, 2023: Spring One: Virtual
+
+March 9, 2023: Hazelcast Unconference. Virtual.
+
+March 9, 2023: Conf42 Python. Virtual.
+
+
+
+
+
+March 15, 2023: Philly JUG Meetup in Philly
+
+
+
+
+March 16, 2023: Philly Web Conference: Virtual
+
+
+
+March 17 2023: Trenton Computer Festival
+
+
+
+March 31, 2023: Warsaw IT
+
+
+
+April 4-6, 2023: DevNexus in Atlanta
+
+
+April 25, 2023: Future of Data San Francisco Meetup. San Francisco.
+NiFi, Kafka, Flink, Iceberg, Pinot.
+
+
+
+
+April 24-26, 2023. Real-Time Analytics Summit. San Francisco.
+
+https://rtasummit.com/session/building-a-real-time-iot-application-with-apache-pulsar-and-apache-pinot/
+
+May 3, 2023:  Meet the Committers. Virtual
+
+2023
+Last updated: 10-May-2023
+
+May 3-12, 2023: Hands on DataFlow Labs. Virtual.
+
+May 9, 2023. GSJUG. Madison, NJ.
+
+May 10-12, 2023: Open Source Summit North America. Virtual 
+
+Published by
+Tim Spann 🥑Status is online
+Tim Spann 🥑
+Principal Developer Advocate - Apache NiFi, Apache Flink, Apache Kafka, FLiPN Stack, FLaNK Stack, Apache Pulsar, DeveloperWeek Advisor 🇺🇦
+Published • 5mo
+138 articles
+#OpenSource #Schedule #2023
+
+like
+Like
+
+Comment
+
+Share
+like
+8
+You and 7 others
+Reactions
+like
+Vishesh Ruparelialike
+Christie Schaeferlike
+Lukas Herufek, MBAlike
+Andie Thornburg-Smithlike
+Vikas Dadhichlike
+Josh Fischerlike
+Rajiv Srivastavalike
+Comments settings
+0 CommentsComments on Tim Spann 🥑’s article
+Tim Spann 🥑
+
+
+
+Open Emoji Keyboard
+
+FLiP Stack Weekly  🇺🇦 
+FLiP Stack Weekly 🇺🇦
+This week in the FLiP Stack and the related technolgies, companies, software and infrastructure.
+5,986 subscribers
+
+
+Subscribed
+Unsubscribe from {:entityName}
+More from this newsletter
+
+FLaNK Stack for 15 May 2023
+Tim Spann 🥑 on LinkedIn
+
+FLaNK Stack for 08May2023
+Tim Spann 🥑 on LinkedIn
+
+FLaNK Stack Weekly for 30 April 2023
+Tim Spann 🥑 on LinkedIn
+
+
+  
 Completed
 
 13-January-2022. Build an Event-Driven Architecture With Apache Pulsar. Virtual.
