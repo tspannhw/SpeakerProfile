@@ -7,6 +7,7 @@ Join me at my Meetup
 
 https://www.meetup.com/futureofdata-princeton/
 
+https://www.threads.net/@tspannhw
 
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
