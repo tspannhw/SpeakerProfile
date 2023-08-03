@@ -23,6 +23,11 @@ https://www.meetup.com/futureofdata-princeton/events/293233881/
 
 I wrote some articles:
 
+Community Cloudera
+2,468 views, 1 article
+ 
+https://community.cloudera.com/t5/Community-Articles/Best-in-Flow-Event/ta-p/368947
+
 Datainmotion.dev
 26.4K views
 
