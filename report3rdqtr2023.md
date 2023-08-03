@@ -2,11 +2,14 @@ May 1 to July 31, 2023
 
 In this quarter, we had some cool things going on.
 
-First we had the Meet the NiFi Committers and Hackathon Event in the Cloud.
+First, we had the "Meet the NiFi Committers" and NiFi Competition Event in the Cloud.
 
 I created some assets for this:
 
 https://bestinflow.slack.com/ 
+https://www.slideshare.net/bunkertor/cloudera-sandbox-event-guidelines-for-workflow
+https://www.slideshare.net/bunkertor/meet-the-committers-webinar-lab-preparation
+https://www.slideshare.net/bunkertor/best-practices-for-workflow
 
 I spoke at a number of events:
 
@@ -15,11 +18,14 @@ https://www.slideshare.net/bunkertor/budapest-dataml-building-modern-data-stream
 https://www.slideshare.net/bunkertor/using-apache-nifi-with-apache-pulsar-for-fast-data-onramp
 https://www.slideshare.net/bunkertor/building-realtime-pipelines-with-flank-a-case-study-with-transit-data 
 https://www.slideshare.net/bunkertor/implement-a-universal-data-distribution-architecture-to-manage-all-streaming-data
+https://www.slideshare.net/bunkertor/ossna-building-modern-data-streaming-apps
 
 I spoke at some meetups:
 
 https://www.meetup.com/futureofdata-princeton/events/292976004/
 https://www.meetup.com/futureofdata-princeton/events/293233881/
+https://www.slideshare.net/bunkertor/meetup-streaming-data-pipeline-development-258709707
+https://www.slideshare.net/bunkertor/gsjug-mastering-data-streaming-pipelines-09may2023
 
 I wrote some articles:
 
@@ -65,5 +71,15 @@ https://dzone.com/articles/streaming-change-data-capture-data-two-ways
 Harnessing the Power of NiFi: Building a Seamless Flow To Ingest PM2.5 Data… 4538 view
 https://dzone.com/articles/harnessing-the-power-of-nifi-building-a-seamless-f
 
+I created some videos:
+
+https://www.youtube.com/watch?v=Esl1ZYZRSH4	
+https://www.youtube.com/watch?v=ptjRobC1FSw&t=512s 
+
+
+
+My Youtube Channel is moving slowly, but I need to add more content.
+
+https://www.youtube.com/channel/UCDIDMDfje6jAvNE8DGkJ3_w 
 
 
