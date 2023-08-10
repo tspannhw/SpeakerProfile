@@ -7,7 +7,21 @@ Join me at my Meetup
 
 https://www.meetup.com/futureofdata-princeton/
 
+https://www.meetup.com/futureofdata-newyork/
+
+https://www.meetup.com/futureofdata-philadelphia/
+
+
+https://www.meetup.com/new-york-city-apache-pulsar-meetup/
+
+
 https://www.threads.net/@tspannhw
+
+https://ossinsight.io/analyze/tspannhw
+
+https://medium.com/@tspann/subscribe
+
+https://github.com/tspannhw/FLiPStackWeekly
 
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
