@@ -101,15 +101,21 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He 
 
 ## 2023 Upcoming Talks
 
-March 30, 2023:   Virtual Meetup with Ververica
-https://www.meetup.com/new-york-apache-flink-meetup/
+See:   https://www.linkedin.com/pulse/schedule-2023-tim-spann-/
 
-April 4-6, 2023:  DevNexus in Atlanta
-https://devnexus.com/
 
-April 24-26, 2023:  Real Time Analytics Summit
+August 23, 2023: AI Dev Day NYC
 
-April 25, 2023:  Future of Data Meetup SF
+September 26-27, 2023: Current Event. San Jose, California
+
+October 7-10, 2023: Community over Code: Halifax, Canada.
+
+November 2, 2023: Evolve: NYC 
+
+November 8, 2023: Flink Forward, Seattle.
+
+November 22-24, 2023: Building Real-Time Travel Alerts. Online.
+
 
 
 ## 2023 Past Talks
@@ -138,6 +144,15 @@ https://2023.pythonwebconf.com/
 March 15, 2023:   Philly JUG Meetup in Philly
 https://www.meetup.com/phillyjug/
 
+March 30, 2023:   Virtual Meetup with Ververica
+https://www.meetup.com/new-york-apache-flink-meetup/
+
+April 4-6, 2023:  DevNexus in Atlanta
+https://devnexus.com/
+
+April 24-26, 2023:  Real Time Analytics Summit
+
+April 25, 2023:  Future of Data Meetup SF
 
 
 ## 2020 Report
