@@ -32,6 +32,16 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/paasdev.svg?style=social)](https://twitter.com/paasdev)
+
+[![LinkedIn Profile](https://img.shields.io/badge/timothyspann--lightgrey?logo=linkedin&style=social)](https://www.linkedin.com/in/timothyspann)
+
+[![Medium](https://img.shields.io/badge/Tim%20on%20Medium--lightgrey?logo=medium&style=social)](https://medium.com/@tspann)
+
+[![YouTube](https://img.shields.io/youtube/channel/views/UCDIDMDfje6jAvNE8DGkJ3_w?style=social)](https://www.youtube.com/@FLaNK-Stack)
+
+
+
 ## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023)
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2023/talks
