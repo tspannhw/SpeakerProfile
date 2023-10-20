@@ -51,6 +51,7 @@ https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 * https://www.datainmotion.dev/2020/01/year-and-decade-end-report-201.html
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541
+* https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
 
 
 ## Bio - Timothy Spann - Principal Developer Advocate @ Cloudera
