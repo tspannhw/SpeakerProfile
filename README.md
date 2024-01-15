@@ -2,6 +2,8 @@
 
 My speaker profile for events and conferences forked from codepo8/presenter-terms.
 
+![img](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)
+
 
 Join me at my Meetup 
 
