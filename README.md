@@ -13,9 +13,9 @@ https://www.meetup.com/futureofdata-newyork/
 
 https://www.meetup.com/futureofdata-philadelphia/
 
-
 https://www.meetup.com/new-york-city-apache-pulsar-meetup/
 
+https://medium.com/@tspann/subscribe
 
 https://www.threads.net/@tspannhw
 
