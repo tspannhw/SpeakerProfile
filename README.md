@@ -44,7 +44,7 @@ https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 
 
 
-## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023)
+## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024)
 
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2023/talks
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
@@ -54,6 +54,7 @@ https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541
 * https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
+* https://medium.com/cloudera-inc/my-year-in-review-2023-0ef5e5a36711
 
 
 ## Bio - Timothy Spann - Principal Developer Advocate @ Cloudera
@@ -112,22 +113,27 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He 
 * **DevNetwork Advisory Board** Member
 * **DZone Top Experts** https://dzone.com/iot https://dzone.com/ai-ml
 
-## 2023 Upcoming Talks
+## 2024 Upcoming Talks
 
-See:   https://www.linkedin.com/pulse/schedule-2023-tim-spann-/
+https://www.linkedin.com/feed/update/urn:li:activity:7155201101837791232/
 
+Feb 8, 2024:  NYC.   Open Source Meetup
+https://www.meetup.com/futureofdata-princeton/events/298589747/
 
-August 23, 2023: AI Dev Day NYC
+Feb 28, 2024:  NYC. Cloudera Meetup.   Flink
+https://www.meetup.com/futureofdata-princeton/events/298661947/
 
-September 26-27, 2023: Current Event. San Jose, California
+March 5, 2024: Princeton Meetup.
+https://www.meetup.com/applied-generative-artificial-intelligence-applications/
 
-October 7-10, 2023: Community over Code: Halifax, Canada.
+March 15, 2024: Trenton.  TCF Pro
+IT Professional Conference at Trenton Computer Festival
+IEEE Information Technology Professional Conference on Friday, March 15th, 2024
 
-November 2, 2023: Evolve: NYC 
+April 2024: XtremeJ 2024. Virtual.
 
-November 8, 2023: Flink Forward, Seattle.
+April 8-11, 2024: NLIT Summit. Seattle, WA.
 
-November 22-24, 2023: Building Real-Time Travel Alerts. Online.
 
 
 
@@ -167,6 +173,20 @@ April 24-26, 2023:  Real Time Analytics Summit
 
 April 25, 2023:  Future of Data Meetup SF
 
+See:   https://www.linkedin.com/pulse/schedule-2023-tim-spann-/
+
+
+August 23, 2023: AI Dev Day NYC
+
+September 26-27, 2023: Current Event. San Jose, California
+
+October 7-10, 2023: Community over Code: Halifax, Canada.
+
+November 2, 2023: Evolve: NYC 
+
+November 8, 2023: Flink Forward, Seattle.
+
+November 22-24, 2023: Building Real-Time Travel Alerts. Online.
 
 ## 2020 Report
 
