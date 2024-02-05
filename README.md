@@ -184,9 +184,44 @@ October 7-10, 2023: Community over Code: Halifax, Canada.
 
 November 2, 2023: Evolve: NYC 
 
-November 8, 2023: Flink Forward, Seattle.
+11/2/2023	FInOS NYC	Unlocking Financial Data with Real-Time Pipelines
 
-November 22-24, 2023: Building Real-Time Travel Alerts. Online.
+11/21/2023	JCon World	Continuous SQL with Kafka and Flink
+
+11/22/2023	Big Data	Building Real-Time Travel Alerts
+
+11/23/2023	Data Science Summit	Integrating LLM with Streaming Data Pipelines
+
+12/14/2023	OSA Conference	Unlocking Financial Data with Real-Time Pipelines
+
+
+**2023**
+
+🎯 2 DZone Top Expert Zones 
+
+🎯 2 DZone Trend Reports ([https://dzone.com/trendreports/data-pipelines-2](https://dzone.com/trendreports/data-pipelines-2) [https://dzone.com/trendreports/development-at-scale](https://dzone.com/trendreports/development-at-scale))
+
+📣 33 conference talks (including both virtual and in-person)
+
+📣 2 Cloudera Evolve Events
+
+📅 9 meetups
+
+📼 6 webinars
+
+✍️ 61 articles and blog posts
+
+🗞 51 #newsletter weeklies written
+
+📚 55 code repositories built
+
+📄 43 slides created for events
+
+🖥️ 25 demos built, run and shown
+
+📺 59 videos from various streaming resources
+
+🏢 118 New Meetup Members 
 
 ## 2020 Report
 
