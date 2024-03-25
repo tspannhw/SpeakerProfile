@@ -6,6 +6,8 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 [http://www.flankai.com/](http://www.flankai.com/)
 
+[https://flank.substack.com/](https://flank.substack.com/)
+
 Join me at my Meetup 
 
 https://www.meetup.com/futureofdata-princeton/
