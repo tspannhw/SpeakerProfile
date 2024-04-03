@@ -24,7 +24,6 @@ https://www.threads.net/@tspannhw
 
 https://ossinsight.io/analyze/tspannhw
 
-https://medium.com/@tspann/subscribe
 
 https://github.com/tspannhw/FLiPStackWeekly
 
@@ -33,8 +32,6 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
 ![tspannhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=tspannhw&include_all_commits=true&count_private=true&theme=cobalt)
 
-
-https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paasdev.svg?style=social)](https://twitter.com/paasdev)
@@ -62,7 +59,7 @@ https://medium.com/@tspann/november-15-19-2022-flip-stack-weekly-1c84cb581771
 
 ## Bio - Timothy Spann - Principal Developer Advocate @ Cloudera
 
-Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
+Tim Spann is a Principal Developer Advocate, Streaming Specialist and Field Engineer in Data In Motion for Cloudera.  He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
 
 * @tspann@fosstodon.org
 * https://hachyderm.io/@timspann
@@ -98,7 +95,7 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He 
 
 * **Name:** Timothy Spann
 * **Company:** Cloudera
-* **Former Companies:** StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group.
+* **Former Companies:** StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group, E&Y, PwC.
 * **Job Title:** Principal Developer Advocate
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
 * **LinkedIn:** https://www.linkedin.com/in/timothyspann/
@@ -116,7 +113,7 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera.  He 
 * **DevNetwork Advisory Board** Member
 * **DZone Top Experts** https://dzone.com/iot https://dzone.com/ai-ml
 
-## 2024 Upcoming Talks
+## 2024 Talk Summary
 
 https://www.linkedin.com/feed/update/urn:li:activity:7155201101837791232/
 
@@ -136,8 +133,6 @@ IEEE Information Technology Professional Conference on Friday, March 15th, 2024
 April 2024: XtremeJ 2024. Virtual.
 
 April 8-11, 2024: NLIT Summit. Seattle, WA.
-
-
 
 
 ## 2023 Past Talks
