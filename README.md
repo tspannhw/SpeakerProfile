@@ -8,6 +8,8 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 [https://flank.substack.com/](https://flank.substack.com/)
 
+[https://speakerdeck.com/tspannhw](https://speakerdeck.com/tspannhw)
+
 Join me at my Meetup 
 
 https://www.meetup.com/futureofdata-princeton/
