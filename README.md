@@ -12,13 +12,7 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 Join me at my Meetup 
 
-https://www.meetup.com/futureofdata-princeton/
-
-https://www.meetup.com/futureofdata-newyork/
-
-https://www.meetup.com/futureofdata-philadelphia/
-
-https://www.meetup.com/new-york-city-apache-pulsar-meetup/
+https://zilliz.com/community/unstructured-data-meetup
 
 https://medium.com/@tspann/subscribe
 
@@ -26,15 +20,12 @@ https://www.threads.net/@tspannhw
 
 https://ossinsight.io/analyze/tspannhw
 
-
 https://github.com/tspannhw/FLiPStackWeekly
 
 
 For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 
 ![tspannhw's GitHub stats](https://github-readme-stats.vercel.app/api?username=tspannhw&include_all_commits=true&count_private=true&theme=cobalt)
-
-
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/paasdev.svg?style=social)](https://twitter.com/paasdev)
 
@@ -59,9 +50,9 @@ For more information, check [here](https://www.datainmotion.dev/p/about-me.html)
 * https://medium.com/cloudera-inc/my-year-in-review-2023-0ef5e5a36711
 
 
-## Bio - Timothy Spann - Principal Developer Advocate @ Cloudera
+## Bio - Timothy Spann - Principal Developer Advocate @ Zilliz
 
-Tim Spann is a Principal Developer Advocate, Streaming Specialist and Field Engineer in Data In Motion for Cloudera.  He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
+Tim Spann is a Principal Developer Advocate for Zilliz and Milvus.  He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Principal Developer Advocate at Cloudera, Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in computer science.
 
 * @tspann@fosstodon.org
 * https://hachyderm.io/@timspann
