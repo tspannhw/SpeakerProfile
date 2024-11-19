@@ -87,9 +87,10 @@ Tim Spann is a Principal Developer Advocate for Zilliz and Milvus.  He works wit
 ## :wave: Personal information
 
 * **Name:** Timothy Spann
-* **Company:** Cloudera
-* **Former Companies:** StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group, E&Y, PwC.
-* **Job Title:** Principal Developer Advocate
+* **Company:** Data in Motion
+* **Former Companies:** Zilliz, Cloudera, StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group, E&Y, PwC.
+* **Job Title:** Principal Developer Advocate / Field Engineer / Sales Engineer
+* **Bluesky:** [https://bsky.app/profile/paasdev.bsky.social](https://bsky.app/profile/paasdev.bsky.social)
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
 * **LinkedIn:** https://www.linkedin.com/in/timothyspann/
 * **Blog/Homepage:** https://datainmotion.dev
@@ -99,9 +100,6 @@ Tim Spann is a Principal Developer Advocate for Zilliz and Milvus.  He works wit
 * **Forum:** https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
 * **Dzone Articles:** https://dzone.com/users/297029/bunkertor.html
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
-* **Other Sites:** https://www.clouddataestate.dev/ https://www.clouddataops.dev/ https://www.clouddatalake.dev/
-* https://www.airflowdagdeveloper.com/ https://flipstack.dev/ 
-* **My Meetups:** https://www.meetup.com/new-york-city-apache-pulsar-meetup/ https://www.meetup.com/futureofdata-princeton/ https://www.meetup.com/futureofdata-newyork/ https://www.meetup.com/TechnologySolutionsHub/
 * **Location:** Princeton, New Jersey, USA
 * **DevNetwork Advisory Board** Member
 * **DZone Top Experts** https://dzone.com/iot https://dzone.com/ai-ml
