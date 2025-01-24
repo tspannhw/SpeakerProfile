@@ -30,8 +30,9 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 [![YouTube](https://img.shields.io/youtube/channel/views/UCDIDMDfje6jAvNE8DGkJ3_w?style=social)](https://www.youtube.com/@FLaNK-Stack)
 
-## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024)
+## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
 
+* https://www.linkedin.com/feed/update/urn:li:activity:7279661001841467392/
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2023/talks
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
 * https://github.com/tspannhw/SpeakerProfile/tree/main/2021/talks
@@ -98,6 +99,32 @@ Tim Spann is a Senior Sales Engineer @ Snowflake. He works with Generative AI, L
 * **DZone Top Experts** https://dzone.com/iot https://dzone.com/ai-ml
 
 ## 2024 Talk Summary
+
+🎯 2 DZone Top Expert Zones (AI/ML, IoT)
+🎯 6 DZone Articles
+🎯 75 Medium Articles
+✍️ 85 Total Articles and Blog Posts
+📣 987 LinkedIn Posts 
+📣 22 Conference talks (including both 16 virtual and 6 in-person)
+📅 27 Meetups
+ *  6 meetups with Unstructured Data NYC
+ *  1 NY Open Source meetup
+ *  5 Cloudera meetups meetups 
+ *  6 AI Camp meetups
+ *  3 NJ GEN AI meetups
+ *  1 PES India meetup
+ *  1 AI Alliance meetup
+ *  4 Startup Grind Princeton meetups
+📼 10 Webinars
+🗞 52 hashtag#newsletter weeklies written 
+🗞 6,423 Subscribers to hashtag#newsletter
+📚 53 code repositories built 
+📄 50 slides created for events
+🖥️ 25 demos built, run and shown
+📺 86 videos from various streaming resources
+📺 489 subscribers to my channel
+🏢 800 New Meetup Members
+
 
 https://www.linkedin.com/feed/update/urn:li:activity:7155201101837791232/
 
