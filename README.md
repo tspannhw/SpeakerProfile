@@ -6,8 +6,11 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 ![image](https://github.com/user-attachments/assets/f3a4a00e-9674-42e3-8325-8e74cf4d4d95)
 
+![image](https://github.com/user-attachments/assets/383708ec-0f3f-42e8-8c04-932d1f578a1c)
 
-[http://www.flankai.com/](http://www.flankai.com/)
+
+https://sessionize.com/tspann#speaker
+
 
 [https://flank.substack.com/](https://flank.substack.com/)
 
