@@ -245,6 +245,39 @@ https://www.linkedin.com/pulse/2021-what-long-year-wrap-up-tim-spann/
 
 https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
 
+## 2024 Report
+
+My 2024 Wrap-Up
+
+🎯 2 DZone Top Expert Zones (AI/ML, IoT)
+🎯 6 DZone Articles
+🎯 75 Medium Articles
+✍️ 85 Total Articles and Blog Posts
+📣 987 LinkedIn Posts 
+📣 22 Conference talks (including both 16 virtual and 6 in-person)
+📅 27 Meetups
+ *  6 meetups with Unstructured Data NYC
+ *  1 NY Open Source meetup
+ *  5 Cloudera meetups meetups 
+ *  6 AI Camp meetups
+ *  3 NJ GEN AI meetups
+ *  1 PES India meetup
+ *  1 AI Alliance meetup
+ *  4 Startup Grind Princeton meetups
+📼 10 Webinars
+🗞 52 hashtag#newsletter weeklies written 
+🗞 6,423 Subscribers to hashtag#newsletter
+📚 53 code repositories built 
+📄 50 slide decks created for events
+🖥️ 25 demos built, run and shown
+📺 86 videos from various streaming resources
+📺 489 subscribers to my channel
+🏢 800 New Meetup Members
+
+I got to work and collaborate with so many different people in the data world from Cloudera, Zilliz, Snowflake, StreamNative, Flat Iron School, Startup Grind Princeton, AI Camp NYC, Rising Wave, DBTA, AI Dev World, DZone, Aiven, The New Stack. There have been so many awesome in-person and virtual events including PyData NYC, AI Alliance, AI Camp, Startup Grind, David, Mehul, Milind, Constantin, Unstructured Data meetups, Future of Data Meetups, Conf42 - how they have grown, Data Summit, NLIT Summit, All Things Open, Intel, SAP, NVIDIA.
+
+
+
 ## 2022 Report
 
 https://github.com/tspannhw/FLiPN-Pulsar-Report-2022
@@ -288,6 +321,11 @@ https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
 
 ## Some Topics In Development
 
+* SNOWFLAKE
+* AI DATA CLOUD
+* Apache NiFi Use cases
+* Apache Kafka
+* Apache Flink
 * BUILDING EVENT STREAMING MICROSERVICES WITH NiFI Stateless AND APACHE PULSAR
 * CLOUD NATIVE STREAMING
 * USING REAL_TIME DATA FEEDS
@@ -308,13 +346,24 @@ https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
 
 ## ✈️ Selection of Previous Events at a Glance
 
+
+Conf42 IoT 2024, Pydata Global 2024, Conf42 Prompt Engineering 2024, BITS NYC 2024, Pydata NYC 2024,  Big Data Conference 2024, AI Camp NYC Oct 2024, AAAI 2025 Philly, NYC Data + AI Happy Hour! March 2025, 
 AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink Forward Global Virtual 2020, DeveloperWeek Europe 2021, Apache Con Global 2020, Apache Beam Summit 2020, DevOps Stage Ukraine 2020, IoT Fusion, Strata NYC 2018/2019, Oracle Code NYC, Utilities Analytics Week, DataWorks Summit Berlin/Sydney/San Jose/DC/Barcelona, Open Source Summit Europe 2020, Big Data Conference 2020, Apache MXNet Day 2020, NoSQL Day 2019, Future of Data Prague 2018, Future of Data Philadelphia 2018, Future of Data Berlin 2018, Future of Data Princeton 2016/2017/2018/2019/2020/2021, BluePrint LDN 2021, Cloudera Now 2021, DataCon LA 2021 Meetup Event, Cloudera Emerging Tech Day 2020/2021, Developer Week Europe 2021, DemoJam NiFi/Flink Cloudera 2021, AI/IoT Bulgaria Summit 2021, Data Science Online Camp Summer 2021, Conf42: Machine Learning 2021, Music City Data 2021, DataCon LA 2021, ApacheCon Global 2021, Scenic City Summit 2021, Open Source Summit US 2021, Big Data Conference EU 2021, Apache Pulsar Summit Europe 2021, Cloud Lunch and Learn 2021, Activate Search Conference 2021, Cisco Dev Net Create 2021, Trino Summit 2021, Influx Days 2021, AI World 2021, API World 2021, PASS Data Community Summit 2021, Data Science Camp Online Winter Editions 2021, ApacheCon Asia 2021, World Festival (Dev Innovation Summit) 2021, Pulsar Summit Asia 2021, Pulsar Summit EU 2021, DataMinutes 2022, DevFest 2021- UK & Ireland, Developer Week 2022, Scylla Summit 2022, Elastic Community Conference 2022, Conf42 ML, Data Summit 24, Conf42 LLM, XtremeJ 23/24, Trenton Computer Festival Pro 23, Trenton Computer Festival Pro 24, Conf42 Python 2024, AI Camp Feb 24 NYC, OSA Conference 23, Big Data Europe 23, JConWorld 23, AI Dev World 23, HTAP Summit 23, Community over Code 23 Halifax, Cloudera Now 23, We are Developers World Conference 23, Budapest Data Forum 23, Tanzu Spring Pivotal Conference 23, Big Data Fest Europe 23, Pulsar Summit Europe 23, OSS Summit North America, GSJug 23, Real Time Analytics Summit 23, DevNexus 23, DevNexus 22, Python Web Conference 23, Philly JUG, Conf42 Python 23, Spring One / Tanzu Virtual 23,  Conf42: DevOps 23, Scylla Summit 23, Data Science Online Camp 23, DSCamp Online 22, Machine Intelligence Guild 22, OSA Conference 2022, AllDayDevops 2022, Aerospike Roadshow NYC 2022, DokDays North America 2022, Conf42:  KubeNative 2022, ApacheCon NOLA 2022, JConf.Dev 2022, Open Source Summit EU 2022, Comcast Labs Connect 2022, Pulsar Summit US 2022, Confluent Current Event 2022, Data Idols 2022, ApacheCon Asia 2022, Code on the Beach 2022, ...
 
+* https://www.linkedin.com/feed/update/urn:li:activity:7279661001841467392/
+* https://www.slideshare.net/ssuser73434e/presentations 
 * https://www.datainmotion.dev/2020/12/my-year-in-review-2020.html
 * https://dev.to/tspannhw/year-and-decade-end-report-201-3ddm
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541 
 * https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=hQIktiaZQYOJA8211jBQow%3D%3D
+
+* https://www.slideshare.net/slideshow/streaming-data-and-ai-with-apache-nifi-and-snowflake/276973847
+* https://www.slideshare.net/slideshow/coc23-looking-at-the-new-features-of-apache-nifi/261886745
+* https://www.slideshare.net/ssuser73434e/meetup-brasil-data-in-motion-2023-september-19
+* https://www.slideshare.net/slideshow/future-of-data-milwaukee-meetup-streaming-data-pipeline-development-28-june-2023/258705656
+* https://www.slideshare.net/slideshow/bigdatafest-building-modern-data-streaming-apps-258024601/258024601
+* https://www.slideshare.net/slideshow/bigdatafest-building-modern-data-streaming-apps/258004978
 
 ## 🛰️ Youtube Channel
 
