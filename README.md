@@ -4,6 +4,9 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 
 ![img](https://sessionize.com/Assets/speaker-certificate/Most_Active_Speaker2023.svg)
 
+![image](https://github.com/user-attachments/assets/f3a4a00e-9674-42e3-8325-8e74cf4d4d95)
+
+
 [http://www.flankai.com/](http://www.flankai.com/)
 
 [https://flank.substack.com/](https://flank.substack.com/)
