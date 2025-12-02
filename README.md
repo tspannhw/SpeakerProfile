@@ -88,7 +88,7 @@ Tim Spann is a Senior Solutions Engineer @ Snowflake. He works with Generative A
 
 * **Name:** Timothy Spann
 * **Company:** Data in Motion
-* **Former Companies:** Zilliz, Cloudera, StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group, E&Y, PwC.
+* **Former Companies:** Zilliz, Cloudera, StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group, E&Y.
 * **Job Title:** Principal Developer Advocate / Field Engineer / Sales Engineer
 * **Bluesky:** [https://bsky.app/profile/paasdev.bsky.social](https://bsky.app/profile/paasdev.bsky.social)
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
@@ -97,7 +97,6 @@ Tim Spann is a Senior Solutions Engineer @ Snowflake. He works with Generative A
 * **Slides:** https://www.slideshare.net/bunkertor
 * **DevTo:** https://dev.to/tspannhw
 * **Sessionize:** https://sessionize.com/tspann/
-* **Forum:** https://community.cloudera.com/t5/user/viewprofilepage/user-id/31438
 * **Dzone Articles:** https://dzone.com/users/297029/bunkertor.html
 * **Code and Demos:** https://github.com/tspannhw?tab=repositories&q=&type=source&language=&sort=
 * **Location:** Princeton, New Jersey, USA
