@@ -9,6 +9,10 @@ My speaker profile for events and conferences forked from codepo8/presenter-term
 ![image](https://github.com/user-attachments/assets/383708ec-0f3f-42e8-8c04-932d1f578a1c)
 
 
+![image](https://github.com/tspannhw/SpeakerProfile/blob/main/Gemini_Generated_Image_9deq1o9deq1o9deq.png?raw=true)
+
+
+
 https://sessionize.com/tspann#speaker
 
 
