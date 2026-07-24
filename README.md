@@ -20,7 +20,7 @@ https://sessionize.com/tspann#speaker
 
 [https://speakerdeck.com/tspannhw](https://speakerdeck.com/tspannhw)
 
-Join me at my Meetups in NYC, New Jersey and Philly 
+Join me at my Meetups / User Groups in NYC, New Jersey and Philly 
 
 https://medium.com/@tspann/subscribe
 
@@ -40,7 +40,7 @@ https://github.com/tspannhw/FLiPStackWeekly
 
 [![YouTube](https://img.shields.io/youtube/channel/views/UCDIDMDfje6jAvNE8DGkJ3_w?style=social)](https://www.youtube.com/@FLaNK-Stack)
 
-## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025)
+## Recent Talks (2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026)
 
 * https://www.linkedin.com/feed/update/urn:li:activity:7279661001841467392/
 * https://github.com/tspannhw/SpeakerProfile/blob/main/2023/talks
@@ -52,11 +52,12 @@ https://github.com/tspannhw/FLiPStackWeekly
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541
 * https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
 * https://medium.com/cloudera-inc/my-year-in-review-2023-0ef5e5a36711
+* https://github.com/tspannhw/conferences/tree/main/2026
 
 
-## Bio - Timothy Spann - Senior Sales Engineer @ Snowflake
+## Bio - Timothy Spann - Senior Solution Engineer @ Snowflake
 
-Tim Spann is a Senior Solutions Engineer @ Snowflake. He works with Generative AI, LLM, Snowflake, SQL, Apache Iceberg, Snowflake Cortex AI, Agents, HuggingFace, Python, Java, Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL,  Apache Spark, Big Data, IoT, Cloud, AI/DL, Machine Learning, and Deep Learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Principal Developer Advocate at Zilliz, Principal Developer Advocate at Cloudera, Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Senior Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in Computer Science.
+Tim Spann is a Senior Solutions Engineer @ Snowflake. He works with Agentic AI, Semantic Views, Apache Ossie, OpenFlow, Generative AI, LLM, Snowflake, SQL, Apache Iceberg, Snowflake Cortex AI, Agents, HuggingFace, Python, Java, Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL,  Apache Spark, Big Data, IoT, Cloud, AI/DL, Machine Learning, and Deep Learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Principal Developer Advocate at Zilliz, Principal Developer Advocate at Cloudera, Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Senior Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark. Tim is a frequent speaker at conferences such as ApacheCon, DeveloperWeek, Pulsar Summit and many more. He holds a BS and MS in Computer Science.
 
 * @tspann@fosstodon.org
 * https://hachyderm.io/@timspann
@@ -93,7 +94,7 @@ Tim Spann is a Senior Solutions Engineer @ Snowflake. He works with Generative A
 * **Name:** Timothy Spann
 * **Company:** Data in Motion
 * **Former Companies:** Zilliz, Cloudera, StreamNative, Pivotal, Hortonworks, HPE, airisData, SecurityScorecard, BN, Noveda Technologies, Charterhouse Systems Group, E&Y.
-* **Job Title:** Principal Developer Advocate / Field Engineer / Sales Engineer
+* **Job Title:** Principal Developer Advocate / Principal Field Engineer / Senior Sales Engineer / Senior Solution Engineer
 * **Bluesky:** [https://bsky.app/profile/paasdev.bsky.social](https://bsky.app/profile/paasdev.bsky.social)
 * **Twitter:** [@paasdev](https://twitter.com/paasdev)
 * **LinkedIn:** https://www.linkedin.com/in/timothyspann/
@@ -249,7 +250,10 @@ https://www.datainmotion.dev/2020/12/my-year-in-review-2020.html
 
 https://github.com/tspannhw/SpeakerProfile/tree/main/2021/talks
 https://www.linkedin.com/pulse/2021-what-long-year-wrap-up-tim-spann/
-
+https://www.datainmotion.dev/2021/06/upcoming-events-2021.html
+https://www.linkedin.com/pulse/2021-schedule-tim-spann/
+https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
+  
 ## 2022 Talks
 
 https://github.com/tspannhw/SpeakerProfile/tree/main/2022/talks
@@ -318,11 +322,6 @@ https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
 
 🏢 700 Meetup Members
 
-## Current Talk Topics
-
-* https://github.com/tspannhw/SpeakerProfile/blob/main/nifitopics.md
-* https://github.com/tspannhw/SpeakerProfile/blob/main/pulsar.md
-* https://github.com/tspannhw/SpeakerProfile/blob/main/fliptopics.md
 
 ## Twitter Community:  Data In Motion
 
@@ -345,19 +344,37 @@ https://dev.to/tspannhw/year-2022-streaming-wrap-up-456k
 * BUILD A REAL_TIME PIPELINE NOW WITH PULSAR FUNCTIONS
 * FLIP STACK FOR CLOUD DATA LAKES
 
+##  🛰️ Recent Videos
+
+https://www.youtube.com/watch?v=Fvg69wY9zkg&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubg%3D%3D
+https://www.youtube.com/watch?v=iXBgltF1ihg&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubg%3D%3D
+https://www.youtube.com/watch?v=Lq3c-H0ldIo&pp=0gcJCaMLAYcqIYzv
+https://www.youtube.com/watch?v=iRW0rVuCMBw
+https://www.youtube.com/watch?v=-XepB5HT2Y8
+https://www.youtube.com/watch?v=vvE6WpmOqfI&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubtIHCQmjCwGHKiGM7w%3D%3D
+https://www.youtube.com/watch?v=pWt1_bmnPZ8&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubg%3D%3D
+https://www.youtube.com/watch?v=X7iw146iCEU&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubg%3D%3D
+https://www.youtube.com/watch?v=ZEzUsXtERN0&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubg%3D%3D
+https://www.youtube.com/watch?v=K7xsUyIozU4&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubg%3D%3D
+https://www.youtube.com/watch?v=mpWMDRLDhXA&pp=ygUTU25vd2ZsYWtlIHRpbSBzcGFubg%3D%3D
+https://www.youtube.com/watch?v=lRHV7b8M96s&pp=ygUObmlmaSB0aW0gc3Bhbm4%3D
+https://www.youtube.com/watch?v=u5tn2YgP3rk&pp=ygUObmlmaSB0aW0gc3Bhbm4%3D
+https://www.youtube.com/watch?v=YUIaEPIwZO8&pp=ygUObmlmaSB0aW0gc3Bhbm4%3D
 
 ## 📆 Events Upcoming and Recent
 
-* https://www.linkedin.com/pulse/2021-schedule-tim-spann/
-* https://www.linkedin.com/pulse/my-virtual-schedule-2020-tim-spann/
+* July 29, 2026 - Hands on Lab - Hex - NYC - https://luma.com/44t0mjzx?tk=SXFOGt 
 * https://sessionize.com/tspann/
-* https://www.datainmotion.dev/2021/06/upcoming-events-2021.html
+
 
 ## ✈️ Selection of Previous Events at a Glance
 
-
-Conf42 IoT 2024, Pydata Global 2024, Conf42 Prompt Engineering 2024, BITS NYC 2024, Pydata NYC 2024,  Big Data Conference 2024, AI Camp NYC Oct 2024, AAAI 2025 Philly, NYC Data + AI Happy Hour! March 2025, 
+Snowflake Summit 2026, Budapest Data and AI, Nodes AI, 2026 Beyond the Prompt NYC Users Group, Warsaw IT Days, Snowflake Data for Breakfast NYC 2026, MCP Conference NYC 2026, Conf42 IoT 2025, LLM Day NYC 2026, PyData Global 2025, Snowflake NYC World Tour 2025, 
+Conf42 IoT 2024, Pydata Global 2024, Conf42 Prompt Engineering 2024, BITS NYC 2024, Pydata NYC 2024,  Big Data Conference 2024, AI Camp NYC Oct 2024, AAAI 2025 Philly, NYC Data + AI Happy Hour! March 2025, Conf42 LLM 2026, Neo4J NODES 2025, Community over Code NA 2025,
 AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink Forward Global Virtual 2020, DeveloperWeek Europe 2021, Apache Con Global 2020, Apache Beam Summit 2020, DevOps Stage Ukraine 2020, IoT Fusion, Strata NYC 2018/2019, Oracle Code NYC, Utilities Analytics Week, DataWorks Summit Berlin/Sydney/San Jose/DC/Barcelona, Open Source Summit Europe 2020, Big Data Conference 2020, Apache MXNet Day 2020, NoSQL Day 2019, Future of Data Prague 2018, Future of Data Philadelphia 2018, Future of Data Berlin 2018, Future of Data Princeton 2016/2017/2018/2019/2020/2021, BluePrint LDN 2021, Cloudera Now 2021, DataCon LA 2021 Meetup Event, Cloudera Emerging Tech Day 2020/2021, Developer Week Europe 2021, DemoJam NiFi/Flink Cloudera 2021, AI/IoT Bulgaria Summit 2021, Data Science Online Camp Summer 2021, Conf42: Machine Learning 2021, Music City Data 2021, DataCon LA 2021, ApacheCon Global 2021, Scenic City Summit 2021, Open Source Summit US 2021, Big Data Conference EU 2021, Apache Pulsar Summit Europe 2021, Cloud Lunch and Learn 2021, Activate Search Conference 2021, Cisco Dev Net Create 2021, Trino Summit 2021, Influx Days 2021, AI World 2021, API World 2021, PASS Data Community Summit 2021, Data Science Camp Online Winter Editions 2021, ApacheCon Asia 2021, World Festival (Dev Innovation Summit) 2021, Pulsar Summit Asia 2021, Pulsar Summit EU 2021, DataMinutes 2022, DevFest 2021- UK & Ireland, Developer Week 2022, Scylla Summit 2022, Elastic Community Conference 2022, Conf42 ML, Data Summit 24, Conf42 LLM, XtremeJ 23/24, Trenton Computer Festival Pro 23, Trenton Computer Festival Pro 24, Conf42 Python 2024, AI Camp Feb 24 NYC, OSA Conference 23, Big Data Europe 23, JConWorld 23, AI Dev World 23, HTAP Summit 23, Community over Code 23 Halifax, Cloudera Now 23, We are Developers World Conference 23, Budapest Data Forum 23, Tanzu Spring Pivotal Conference 23, Big Data Fest Europe 23, Pulsar Summit Europe 23, OSS Summit North America, GSJug 23, Real Time Analytics Summit 23, DevNexus 23, DevNexus 22, Python Web Conference 23, Philly JUG, Conf42 Python 23, Spring One / Tanzu Virtual 23,  Conf42: DevOps 23, Scylla Summit 23, Data Science Online Camp 23, DSCamp Online 22, Machine Intelligence Guild 22, OSA Conference 2022, AllDayDevops 2022, Aerospike Roadshow NYC 2022, DokDays North America 2022, Conf42:  KubeNative 2022, ApacheCon NOLA 2022, JConf.Dev 2022, Open Source Summit EU 2022, Comcast Labs Connect 2022, Pulsar Summit US 2022, Confluent Current Event 2022, Data Idols 2022, ApacheCon Asia 2022, Code on the Beach 2022, ...
+
+
+## 🛰️ Other Content
 
 * https://www.linkedin.com/feed/update/urn:li:activity:7279661001841467392/
 * https://www.slideshare.net/ssuser73434e/presentations 
@@ -366,7 +383,6 @@ AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink 
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2018/ta-p/249363
 * https://community.cloudera.com/t5/Community-Articles/My-Year-in-Review-2017/ta-p/247541 
 * https://www.linkedin.com/pulse/2021-schedule-tim-spann/?trackingId=hQIktiaZQYOJA8211jBQow%3D%3D
-
 * https://www.slideshare.net/slideshow/streaming-data-and-ai-with-apache-nifi-and-snowflake/276973847
 * https://www.slideshare.net/slideshow/coc23-looking-at-the-new-features-of-apache-nifi/261886745
 * https://www.slideshare.net/ssuser73434e/meetup-brasil-data-in-motion-2023-september-19
@@ -374,9 +390,11 @@ AI DevWorld 2020, NetHope Global Summit 2020, Nethop Global Summit 2019,  Flink 
 * https://www.slideshare.net/slideshow/bigdatafest-building-modern-data-streaming-apps-258024601/258024601
 * https://www.slideshare.net/slideshow/bigdatafest-building-modern-data-streaming-apps/258004978
 
+
 ## 🛰️ Youtube Channel
 
-https://www.youtube.com/@FLiP-Stack
+[https://www.youtube.com/@FLaNK-Stack](https://www.youtube.com/@FLaNK-Stack)
+
 
 ## 📼 Videos of Mine
 
